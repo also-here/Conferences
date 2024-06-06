@@ -2,7 +2,7 @@
 List of InfoSec/Hacker Cons
 
 |Name|Con Date|Location|CFP Window|Travel|Website|Contact|Note|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 |ShmooCon|Jan|Washington D.C.|Sep-Dec|No|https://www.shmoocon.org|Last One!|
 |ChiBRRCon|Feb|Chicago|-Dec|No|https://chibrrcon.com/|Rico LaFosse||
 |RedTeam Summit|Mar/Varies|Varies|Nov-Jan/Varies|No|https://redteamsummit.com||Cabal, must CFP for tix|
