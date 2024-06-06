@@ -16,11 +16,11 @@ List of InfoSec/Hacker Cons
 |Area41|Jun|Zurich Switzerland|-Apr/May|Yes|https://area41.io/||Short CFP window|
 |x33fcon|13-14 Jun 2024|Gydnia, Poland|-Feb|Yes|https://www.x33fcon.com|||
 |SecretCon|27-28 June 2024|St Paul Mn|?-?|No?|https://www.secretcon.com|||
-|BlueTeamCon|6-8 Sep 2024|Chicago|-March|No|https://blueteamcon.com/|Frank||
+|BlueTeamCon|6-8 Sep 2024|Chicago|-Mar|No|https://blueteamcon.com/|Frank||
 |SEC-T|10-13 Sep 2024|Stockholm Sweden|May-Aug|Yes|https://www.sec-t.org/|||
 |44CON|18-20 Sep 2024|London|-May|Yes|https://44con.com/||Shares CFP system w/ SINCON|
-|GRRCon|26-27 Sep 2024|Grand Rapids Mi|30 June 2024|No|https://grrcon.com/|||
+|GRRCon|26-27 Sep 2024|Grand Rapids Mi|30 Jun 2024|No|https://grrcon.com/|||
 |HackFest|11-12 Oct 2024|Quebec City, Quebec|-Sep|Yes|https://hackfest.ca|Patrick Mathieu||
-|Hackers Halted|30-31 Oct 2024|Atlanta, Ga|-June 4th 2024|No|https://hackerhalted.com/||Missed CFP|
-|BlackAlps|6-7 Nov 2024|Yverdon-les-Bains Switzerland|-31st July|Yes|https://www.blackalps.ch|||
-|DeepSEC|21-22 Nov 2024|Vienna, Austria|July 31st|Yes|https://deepsec.net|||
+|Hackers Halted|30-31 Oct 2024|Atlanta, Ga|-4 Jun  2024|No|https://hackerhalted.com/||Missed CFP|
+|BlackAlps|6-7 Nov 2024|Yverdon-les-Bains Switzerland|-31 Jul|Yes|https://www.blackalps.ch|||
+|DeepSEC|21-22 Nov 2024|Vienna, Austria|31 Jul|Yes|https://deepsec.net|||
