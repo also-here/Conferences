@@ -1,6 +1,5 @@
 # Confrences
 List of InfoSec/Hacker Cons
-
 |Name|Con Date|Location|CFP Window|Travel|Website|Contact|Note|
 |---|---|---|---|---|---|---|
 |ShmooCon|Jan|Washington D.C.|Sep-Dec|No|https://www.shmoocon.org|Last One!|
