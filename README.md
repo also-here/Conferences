@@ -8,7 +8,7 @@ List of InfoSec/Hacker Cons
 |RedTeam Summit|Mar/Varies|Varies|Nov-Jan/Varies|No|https://redteamsummit.com|Cabal, must CFP for tix|
 |PancakesCon|March|Online|Jan-Feb|No|https://pancakescon.com/||
 |CypherCon| 3-4 Apr 2025|Milwaukee Wi|-2024|No|https://cyphercon.com/||
-|SecretCon|27-28 June 2024|?-?|No?|https://www.secretcon.com||
+|SecretCon|27-28 June 2024|St Paul Mn|?-?|No?|https://www.secretcon.com||
 |ShowMeCon|May|St. Louis Mo|-Dec|Yes|https://showmecon.com||
 |THOTCON|May|Chicago|Oct-Jan|No|https://www.thotcon.org||
 |BlueTeamCon|6-8 Sep 2024|Chicago|-March|No|https://blueteamcon.com/||
