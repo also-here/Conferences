@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">The Chicago Speakers Guild</h1>
+# The Chicago Speakers Guild
 
-# Conference Listing
+## Conference Listing
 List of some InfoSec/Hacker Cons - Ordered by the date of the conference and manually maintained so... :man_shrugging:  
 
 Strong focus on cons convenient to Chicagoland or that will help cover travel expenses.
