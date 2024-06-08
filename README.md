@@ -1,3 +1,4 @@
+<h1 style="text-align: center;">The Chicago Speakers Guild</h1>
 # Conferences
 List of InfoSec/Hacker Cons - Ordered by the date of the conference and manually maintained so... :man_shrugging:  
 
