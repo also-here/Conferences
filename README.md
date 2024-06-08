@@ -21,7 +21,7 @@ List of InfoSec/Hacker Cons
 |[OffensiveCon](https://www.offensivecon.org)|May|Berlin,Germany|-Mar|Yes||
 |[Hardwear.io US](https://www.hardwear.io)|May|Santa Clara|Dec-Feb|Yes|$250 stateside. Prefer employer cover travel costs.|
 |[NorthSec](https://rootedcon.com/index/)|May|Montreal, Ca|Jan-Mar|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
-|[RootedCon](https://cfp.rootedcon.com/ multiple events, no CFP currently open)|May?|Var. Spain/Lisbon, Portugal|?|Yes?|
+|[RootedCon](https://cfp.rootedcon.com/)|May?|Var. Spain/Lisbon, Portugal|?|Yes?|Multiple events, no CFP currently open|
 |[BSides Pristina](https://bsidesprishtina.org/)|May|Pristina, Kosovo|Nov-Feb|Yes|Rare Bsides covering travel, still a non-profit, limited budget|
 |[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|-Mar|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Short CFP window|
@@ -45,7 +45,7 @@ List of InfoSec/Hacker Cons
 |[HITCON ENT](https://hitcon.org)|29-30 Oct 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |[Hackers Halted](https://hackerhalted.com/)|30-31 Oct 2024|Atlanta, Ga|-4 Jun  2024|No|Missed CFP :(|
 |[BlackAlps](https://www.blackalps.ch)|6-7 Nov 2024|Yverdon-les-Bains Switzerland|-31 Jul|Yes||
-|[Unlock Your Brain, Harden Your System (UYBHYS)](https://www.unlockyourbrain.bzh)|8-9 Nov, 2024|Brest, France|30 Jun, 2024|Yes||
+|[UYBHYS](https://www.unlockyourbrain.bzh)|8-9 Nov, 2024|Brest, France|30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
 |[DeepSEC](https://deepsec.net)|21-22 Nov 2024|Vienna, Austria|31 Jul|Yes||
 |[DefCamp](https://def.camp/)|28-29 Nov, 2024|Bucharest, Romania|-Oct?|Yes||
 |[m0leCon](https://m0lecon.it/)|Dec|Turin, Italy|Jun-Sep|Yes||
