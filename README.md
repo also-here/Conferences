@@ -1,5 +1,6 @@
 # Conferences
-List of InfoSec/Hacker Cons - Ordered by the date of the conference and manually maintained so...
+List of InfoSec/Hacker Cons - Ordered by the date of the conference and manually maintained so...:man_shrugging:  
+
 Strong focus on cons convenient to Chicagoland or that will help cover travel expenses.
 Cons with upcoming, announced dates listed with the full date. 
 Currently(ish) active CfP events are :star:STARED:star:.
