@@ -2,7 +2,7 @@
 List of InfoSec/Hacker Cons
 
 |Name|Con Date|Location|CFP Window|Travel|Website|Contact|Note|
-|---|---|---|---|---|---|---|---|
+|------|------|------|------|------|------|------|---------------|
 |ShmooCon|Jan|Washington D.C.|Sep-Dec|No|https://www.shmoocon.org||Last One!|
 |RuhrSec|20-21 Feb, 2025|Bochum, Germany|Jul?-|Yes|https://www.ruhrsec.de|||
 |ChiBRRCon|Feb|Chicago|-Dec|No|https://chibrrcon.com/|Rico LaFosse||
