@@ -2,7 +2,7 @@
 List of InfoSec/Hacker Cons - Ordered by the date of the confrence and manually maintained so...
 Strong focus on cons convenient to Chicagoland or that will help cover travel expenses.
 Cons with upcomming, announces dates listed with the full date. 
-Currently(ish) active CfP events are ==highlighted==.
+Currently(ish) active CfP events are **bold**.
 
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
@@ -37,18 +37,18 @@ Currently(ish) active CfP events are ==highlighted==.
 |[BlueTeamCon](https://blueteamcon.com/)|6-8 Sep 2024|Chicago|-Mar|No|ORG:Frank McGovern||
 |[SEC-T](https://www.sec-t.org/)|10-13 Sep 2024|Stockholm, Sweden|May-Aug|Yes||
 |[44CON](https://44con.com/)|18-20 Sep 2024|London|-May|Yes|Shares CFP system w/ SINCON|
-|==[GRRCon](https://grrcon.com/)==|26-27 Sep 2024|Grand Rapids Mi|-30 Jun, 2024|No||
+|**[GRRCon](https://grrcon.com/)**|26-27 Sep 2024|Grand Rapids Mi|-30 Jun, 2024|No||
 |[RomHack](https://romhack.io)|28 Sep, 2024|Rome, Italy|Feb-May|Yes||
 |[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Winn SCHWARTAU spoke in 23/24?Unsure if a there is a 2024 event|
 |[HackFest](https://hackfest.ca)|11-12 Oct 2024|Quebec City, Quebec|-Sep|Yes|ORG:Patrick Mathieu|
-|==[No Hat](https://www.nohat.it/)==|19 Oct 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
-|==[Hardwear.io NL](https://hardwear.io)==|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
+|**[No Hat](https://www.nohat.it/)**|19 Oct 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
+|**[Hardwear.io NL](https://hardwear.io)**|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
 |[SecTor](https://www.blackhat.com/sector/)|23-24 Oct, 2024|Toronto, Canada|Apr-Jun|Yes|Joined BlackHat a few years ago|
-|==[hack.lu](https://hack.lu)==|22-25 Oct, 2024|Luxembourg|-1 Aug, 2024|Yes*|300 EUR for travel, room covered|
+|**[hack.lu](https://hack.lu)**|22-25 Oct, 2024|Luxembourg|-1 Aug, 2024|Yes*|300 EUR for travel, room covered|
 |[HITCON ENT](https://hitcon.org)|29-30 Oct 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |[Hackers Halted](https://hackerhalted.com/)|30-31 Oct 2024|Atlanta, Ga|-4 Jun  2024|No|Missed CFP :(|
-|==[BlackAlps](https://www.blackalps.ch)==|6-7 Nov 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
-|==[UYBHYS](https://www.unlockyourbrain.bzh)==|8-9 Nov, 2024|Brest, France|30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
-|==[DeepSEC](https://deepsec.net)==|21-22 Nov 2024|Vienna, Austria|-31 Jul, 2024|Yes||
-|==[DefCamp](https://def.camp/)==|28-29 Nov, 2024|Bucharest, Romania|-Oct?|Yes||
+|**[BlackAlps](https://www.blackalps.ch)**|6-7 Nov 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
+|**[UYBHYS](https://www.unlockyourbrain.bzh)**|8-9 Nov, 2024|Brest, France|30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
+|**[DeepSEC](https://deepsec.net)**|21-22 Nov 2024|Vienna, Austria|-31 Jul, 2024|Yes||
+|**[DefCamp](https://def.camp/)**|28-29 Nov, 2024|Bucharest, Romania|-Oct?|Yes||
 |[m0leCon](https://m0lecon.it/)|Dec|Turin, Italy|Jun-Sep|Yes||
