@@ -38,7 +38,8 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[leHACK](https://lehack.org/)|5-6 Jul, 2024|Paris, France|Dec-Apr|Yes||
 |[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*||$600 Speaker fee + Hotel, Lunch|
 |[BlueTeamCon](https://blueteamcon.com/)|6-8 Sep, 2024|Chicago|-Mar|No|ORG:Frank McGovern||
-|[SEC-T](https://www.sec-t.org/)|10-13 Sep, 2024|Stockholm, Sweden|May-Aug|Yes||
+|:star:[SEC-T](https://www.sec-t.org/):star:|10-13 Sep, 2024|Stockholm, Sweden|May-1 Aug, 2024|Yes||
+|[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|18-20 Sep, 2024|London|-May|Yes|Shares CFP system w/ SINCON|
 |:star:[GRRCon](https://grrcon.com/):star:|26-27 Sep, 2024|Grand Rapids Mi|-30 Jun, 2024|No||
 |[RomHack](https://romhack.io)|28 Sep, 2024|Rome, Italy|Feb-May|Yes||
