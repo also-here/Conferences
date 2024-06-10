@@ -60,7 +60,8 @@ Currently(ish) active CfP events are :star:STARED:star:.
 
 ## CFP Sites and Other Info
 
-- [confsec](https://github.com/cryptax/confsec/tree/master) Similar effor by cryptax.
+- [confsec](https://github.com/cryptax/confsec/tree/master) - Similar effor by cryptax.
 - [CFP Time](https://www.cfptime.org/home) - often include Speaker Benefits info
 - [PaperCall](https://www.papercall.io/) - Event directory and paper submission
-- [WikiCFP](http://wikicfp.com/cfp/) More academic in general 
+- [WikiCFP](http://wikicfp.com/cfp/) - More academic in general 
+- [InfoSecMap](https://infosecmap.com/) - Info on events and meetups. more p2p, less hacker
