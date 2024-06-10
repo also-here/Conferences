@@ -56,3 +56,11 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[DeepSEC](https://deepsec.net):star:|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
 |:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-Oct?|Yes||
 |[m0leCon](https://m0lecon.it/)|Dec|Turin, Italy|Jun-Sep|Yes||
+
+
+## CFP Sites and Other Info
+
+- [confsec](https://github.com/cryptax/confsec/tree/master) Similar effor by cryptax.
+- [CFP Time](https://www.cfptime.org/home) - often include Speaker Benefits info
+- [PaperCall](https://www.papercall.io/) - Event directory and paper submission
+- [WikiCFP](http://wikicfp.com/cfp/) More academic in general 
