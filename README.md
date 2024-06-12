@@ -54,6 +54,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Hackers Halted](https://hackerhalted.com/)|30-31 Oct, 2024|Atlanta, GA|-4 Jun  2024|No|Missed CFP :(|
 |:star:[BlackAlps](https://www.blackalps.ch):star:|6-7 Nov, 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
 |:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|8-9 Nov, 2024|Brest, France|30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
+|:star:[Code Blue](https://codeblue.jp/2024/en/):star:|14-15 Nov, 2024|Tokyo, Japan|-15 Aug,2024|Yes||
 |:star:[DeepSEC](https://deepsec.net):star:|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
 |:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-Oct?|Yes||
 |[m0leCon](https://m0lecon.it/)|Dec|Turin, Italy|Jun-Sep|Yes||
