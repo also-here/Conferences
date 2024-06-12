@@ -43,7 +43,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[44CON](https://44con.com/)|18-20 Sep, 2024|London, England|-May|Yes|Shares CFP system w/ SINCON|
 |:star:[GRRCon](https://grrcon.com/):star:|26-27 Sep, 2024|Grand Rapids, MI|-30 Jun, 2024|No||
 |[RomHack](https://romhack.io)|28 Sep, 2024|Rome, Italy|Feb-May|Yes||
-|[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Winn SCHWARTAU spoke in 23/24?Unsure if a there is a 2024 event|
+|[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Winn Schwartau spoke in 23/24? Unsure if a there is a 2024 event|
 |:star:[CornCon](https://corncon.net):star:|4-5 Oct, 2024|Davenport, IA|-?|No||
 |[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|-Sep|Yes|ORG:Patrick Mathieu|
 |:star:[No Hat](https://www.nohat.it/):star:|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
