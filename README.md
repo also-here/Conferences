@@ -42,7 +42,6 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[OffensiveCon](https://www.offensivecon.org)|May|Berlin,Germany|-Mar|Yes||
 |[Hardwear.io US](https://www.hardwear.io)|May|Santa Clara, CA|Dec-Feb|Yes|$250 stateside. Prefer employer cover travel costs.|
 |[NorthSec](https://rootedcon.com/index/)|May|Montreal, Canada|Jan-Mar|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
-|[RootedCon](https://cfp.rootedcon.com/)|May?|Var. Spain/Lisbon, Portugal|?|Yes?|Multiple events, no CFP currently open|
 |[BSides Pristina](https://bsidesprishtina.org/)|May|Pristina, Kosovo|Nov-Feb|Yes|Rare Bsides covering travel, still a non-profit, limited budget|
 |[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|-Mar|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Short CFP window|
@@ -57,6 +56,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[RomHack](https://romhack.io)|28 Sep, 2024|Rome, Italy|Feb-May|Yes||
 |[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Unsure if a there is a 2024 event|
 |[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|-Sep|Yes||
+|:star:[RootedCon](https://cfp.rootedcon.com/):star:|15-16 Oct, 2024|Var. Spain/Lisbon, Portugal|1 Jul-30 Sep, 2024|Yes?|Multiple events,  RootedCON Valencia 2024 CFP currently open|
 |:star:[No Hat](https://www.nohat.it/):star:|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
 |:star:[Hardwear.io NL](https://hardwear.io):star:|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
 |[SecTor](https://www.blackhat.com/sector/)|23-24 Oct, 2024|Toronto, Canada|Apr-Jun|Yes|Joined BlackHat a few years ago|
