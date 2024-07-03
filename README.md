@@ -29,6 +29,8 @@ Currently(ish) active CfP events are :star:STARED:star:.
 
 ### Travel required but assitance available
 
+|Name|Con Date|Location|CFP Window|Travel|Note|
+|------|------|------|------|------|------|
 |:star:[NDC {Security}](https://ndc-security.com):star:|20-25 Jan, 2025|Oslo, Norway|Jun- 15 Sep, 2024|Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
 |:star:[NDC {London}](https://ndclondon.com):star:|27-31 Jan, 2025|London, England|May- 1 Sep, 2024|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|Jul?-|Yes||
