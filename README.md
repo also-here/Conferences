@@ -58,6 +58,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Unsure if a there is a 2024 event|
 |[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|-Sep|Yes||
 |:star:[RootedCon](https://cfp.rootedcon.com/):star:|15-16 Oct, 2024|Var. Spain/Lisbon, Portugal|1 Jul-30 Sep, 2024|Yes?|Multiple events,  RootedCON Valencia 2024 CFP currently open|
+|:star:[Hacktivity](https://hacktivity.com/):star:|17-18 Oct, 2024|Budapest, Hungary|-15 Jul, 2024|Yes|Limit travel 300 EUR+2 nights of hotel|
 |:star:[No Hat](https://www.nohat.it/):star:|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
 |:star:[Hardwear.io NL](https://hardwear.io):star:|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
 |[SecTor](https://www.blackhat.com/sector/)|23-24 Oct, 2024|Toronto, Canada|Apr-Jun|Yes|Joined BlackHat a few years ago|
