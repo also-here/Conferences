@@ -24,7 +24,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[BlueTeamCon](https://blueteamcon.com/)|6-8 Sep, 2024|Chicago, IL|-Mar|No||
 |[GRRCon](https://grrcon.com/)|26-27 Sep, 2024|Grand Rapids, MI|-Jun|No||
 |:star:[CornCon](https://corncon.net):star:|4-5 Oct, 2024|Davenport, IA|-?|No||
-|:star:[BsidesPeoria](https://bsidespeoria.org/):star:|12 Oct, 2024|Peroia, IL|Jun-?|No|Free Tractor Parking?|
+|:star:[BsidesPeoria](https://bsidespeoria.com/):star:|12 Oct, 2024|Peroia, IL|Jun-?|No|Free Tractor Parking?|
 |[Hackers Halted](https://hackerhalted.com/)|30-31 Oct, 2024|Atlanta, GA|-4 Jun, 2024|No|EC2|
 |[BsidesChicago](https://bsideschicago.org/)|2 Nov, 2024|Chicago, IL|10 Aug-15 Sep, 2024|No|meh.|
 
@@ -64,7 +64,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[hack.lu](https://hack.lu):star:|22-25 Oct, 2024|Luxembourg, Luxembourg|-1 Aug, 2024|Yes*|300 EUR for travel, room covered|
 |[HITCON ENT](https://hitcon.org)|29-30 Oct, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |:star:[BlackAlps](https://www.blackalps.ch):star:|6-7 Nov, 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
-|:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|8-9 Nov, 2024|Brest, France|30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
+|[UYBHYS](https://www.unlockyourbrain.bzh)|8-9 Nov, 2024|Brest, France|-30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|14-15 Nov, 2024|Tokyo, Japan|-15 Aug,2024|Yes||
 |:star:[DeepSEC](https://deepsec.net):star:|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
 |:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-Oct?|Yes||
