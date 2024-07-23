@@ -16,6 +16,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[RedTeam Summit](https://redteamsummit.com)|Mar/Varies|Varies|Nov-Jan/Varies|No|Members only, must CFP for tix|
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
 |[PancakesCon](https://pancakescon.com/)|Mar|Online|Jan-Feb|No||
+|[BsidesMKE](https://www.bsidesmke.org)|2 Apr, 2025|Milwaukee WI|-2024|No||
 |[CypherCon](https://cyphercon.com/)|3-4 Apr, 2025|Milwaukee WI|-2024|No||
 |[ShowMeCon](https://showmecon.com)|May|St. Louis, MO|-Dec|Yes||
 |[THOTCON](https://www.thotcon.org)|May|Chicago, IL|Oct-Jan|No||
@@ -56,7 +57,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[44CON](https://44con.com/)|18-20 Sep, 2024|London, England|-May|Yes|Shares CFP system w/ SINCON|
 |[RomHack](https://romhack.io)|28 Sep, 2024|Rome, Italy|Feb-May|Yes||
 |[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Unsure if a there is a 2024 event|
-|[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|-Sep|Yes||
+|:star:[HackFest](https://hackfest.ca):star:|11-12 Oct, 2024|Quebec City, Canada|22 Jul - 1 Sep, 2024|Yes||
 |:star:[RootedCon](https://cfp.rootedcon.com/):star:|15-16 Oct, 2024|Var. Spain/Lisbon, Portugal|1 Jul-30 Sep, 2024|Yes?|Multiple events,  RootedCON Valencia 2024 CFP currently open|
 |:star:[Hacktivity](https://hacktivity.com/):star:|17-18 Oct, 2024|Budapest, Hungary|-15 Jul, 2024|Yes|Limit travel 300 EUR+2 nights of hotel|
 |:star:[No Hat](https://www.nohat.it/):star:|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
