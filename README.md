@@ -35,10 +35,9 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |------|------|------|------|------|------|
 |:star:[NDC {Security}](https://ndc-security.com):star:|20-25 Jan, 2025|Oslo, Norway|Jun- 15 Sep, 2024|Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
 |:star:[NDC {London}](https://ndclondon.com):star:|27-31 Jan, 2025|London, England|May- 1 Sep, 2024|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
-|[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|Jul?-|Yes||
+|[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|Aug?-|Yes||
 |[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Off-shoot of an Gao India Con|
 |[Insomni'hack](https://insomnihack.ch/)|Apr|Lausanne, Switzerland|-Jan|Yes||
-|[t2.fi](https://t2.fi/)|Apr|Helsinki, Finland|-Feb|Yes||
 |[SINCON](https://www.infosec-city.com/)|May|Singapore|-Feb|Yes||
 |[SecurityFest](https://securityfest.com/)|May|Gothenburg Sweden|-Feb|Yes||
 |[OffensiveCon](https://www.offensivecon.org)|May|Berlin,Germany|-Mar|Yes||
@@ -63,13 +62,13 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[No Hat](https://www.nohat.it/)|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
 |:star:[Hardwear.io NL](https://hardwear.io):star:|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
 |[SecTor](https://www.blackhat.com/sector/)|23-24 Oct, 2024|Toronto, Canada|Apr-Jun|Yes|Joined BlackHat a few years ago|
-|:star:[hack.lu](https://hack.lu):star:|22-25 Oct, 2024|Luxembourg, Luxembourg|-1 Aug, 2024|Yes*|300 EUR for travel, room covered|
+|[hack.lu](https://hack.lu)|22-25 Oct, 2024|Luxembourg, Luxembourg|-1 Aug, 2024|Yes*|300 EUR for travel, room covered|
 |[HITCON ENT](https://hitcon.org)|29-30 Oct, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
-|:star:[BlackAlps](https://www.blackalps.ch):star:|6-7 Nov, 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
+|[BlackAlps](https://www.blackalps.ch)|6-7 Nov, 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
 |[UYBHYS](https://www.unlockyourbrain.bzh)|8-9 Nov, 2024|Brest, France|-30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|14-15 Nov, 2024|Tokyo, Japan|-15 Aug,2024|Yes||
-|:star:[DeepSEC](https://deepsec.net):star:|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
-|:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-Oct?|Yes||
+|[DeepSEC](https://deepsec.net)|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
+|:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-15 Aug&Sep&Oct, 2024|Yes||
 |[m0leCon](https://m0lecon.it/)|Dec|Turin, Italy|?-Sep|Yes||
 
 
