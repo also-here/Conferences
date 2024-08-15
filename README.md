@@ -27,7 +27,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[CornCon](https://corncon.net):star:|4-5 Oct, 2024|Davenport, IA|-?|No||
 |:star:[BsidesPeoria](https://bsidespeoria.com/):star:|12 Oct, 2024|Peroia, IL|Jun-?|No|Free Tractor Parking?|
 |[Hackers Halted](https://hackerhalted.com/)|30-31 Oct, 2024|Atlanta, GA|-4 Jun, 2024|No|EC2|
-|[BsidesChicago](https://bsideschicago.org/)|2 Nov, 2024|Chicago, IL|10 Aug-15 Sep, 2024|No|meh.|
+|:star:[BsidesChicago](https://bsideschicago.org/):star:|2 Nov, 2024|Chicago, IL|10 Aug-15 Sep, 2024|No|meh.|
 
 ### Travel required but assitance available
 
@@ -60,7 +60,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[RootedCon](https://cfp.rootedcon.com/):star:|15-16 Oct, 2024|Var. Spain/Lisbon, Portugal|1 Jul-30 Sep, 2024|Yes?|Multiple events,  RootedCON Valencia 2024 CFP currently open|
 |[Hacktivity](https://hacktivity.com/)|17-18 Oct, 2024|Budapest, Hungary|-15 Jul, 2024|Yes|Limit travel 300 EUR+2 nights of hotel|
 |[No Hat](https://www.nohat.it/)|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
-|:star:[Hardwear.io NL](https://hardwear.io):star:|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
+|[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
 |[SecTor](https://www.blackhat.com/sector/)|23-24 Oct, 2024|Toronto, Canada|Apr-Jun|Yes|Joined BlackHat a few years ago|
 |[hack.lu](https://hack.lu)|22-25 Oct, 2024|Luxembourg, Luxembourg|-1 Aug, 2024|Yes*|300 EUR for travel, room covered|
 |[HITCON ENT](https://hitcon.org)|29-30 Oct, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
