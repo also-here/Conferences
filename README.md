@@ -51,7 +51,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[REcon](https://recon.cx)|28-30 Jun, 2024|Montreal, Canada|Feb-Mar|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
 |[leHACK](https://lehack.org/)|5-6 Jul, 2024|Paris, France|Dec-Apr|Yes||
 |[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*||$600 Speaker fee + Hotel, Lunch|
-|:star:[SEC-T](https://www.sec-t.org/):star:|10-13 Sep, 2024|Stockholm, Sweden|May-1 Aug, 2024|Yes||
+|[SEC-T](https://www.sec-t.org/)|10-13 Sep, 2024|Stockholm, Sweden|May-1 Aug, 2024|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|18-20 Sep, 2024|London, England|-May|Yes|Shares CFP system w/ SINCON|
 |[RomHack](https://romhack.io)|28 Sep, 2024|Rome, Italy|Feb-May|Yes||
