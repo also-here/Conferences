@@ -11,7 +11,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
-|[ShmooCon](https://www.shmoocon.org)|Jan|Washington D.C.|Sep-Dec|No|Not very close but the last one!|
+|[ShmooCon](https://www.shmoocon.org)|Jan|Washington D.C.|?25Sep-Dec|No|The last one!|
 |[ChiBRRCon](https://chibrrcon.com/)|Feb|Chicago, IL|-Dec|No||
 |[RedTeam Summit](https://redteamsummit.com)|Mar/Varies|Varies|Nov-Jan/Varies|No|Members only, must CFP for tix|
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
@@ -25,7 +25,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[BlueTeamCon](https://blueteamcon.com/)|6-8 Sep, 2024|Chicago, IL|-Mar|No||
 |[GRRCon](https://grrcon.com/)|26-27 Sep, 2024|Grand Rapids, MI|-Jun|No||
 |:star:[CornCon](https://corncon.net):star:|4-5 Oct, 2024|Davenport, IA|-?|No||
-|:star:[BsidesPeoria](https://bsidespeoria.com/):star:|12 Oct, 2024|Peroia, IL|Jun-?|No|Free Tractor Parking?|
+|[BsidesPeoria](https://bsidespeoria.com/)|12 Oct, 2024|Peroia, IL|Jun-?|No|Free Tractor Parking?|
 |[Hackers Halted](https://hackerhalted.com/)|30-31 Oct, 2024|Atlanta, GA|-4 Jun, 2024|No|EC2|
 |:star:[BsidesChicago](https://bsideschicago.org/):star:|2 Nov, 2024|Chicago, IL|10 Aug-15 Sep, 2024|No|meh.|
 
@@ -35,7 +35,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |------|------|------|------|------|------|
 |:star:[NDC {Security}](https://ndc-security.com):star:|20-25 Jan, 2025|Oslo, Norway|Jun- 15 Sep, 2024|Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
 |:star:[NDC {London}](https://ndclondon.com):star:|27-31 Jan, 2025|London, England|May- 1 Sep, 2024|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
-|[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|Aug?-|Yes||
+|:star:[RuhrSec](https://www.ruhrsec.de):star:|20-21 Feb, 2025|Bochum, Germany|Aug29-|Yes||
 |[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Off-shoot of an Gao India Con|
 |[Insomni'hack](https://insomnihack.ch/)|Apr|Lausanne, Switzerland|-Jan|Yes||
 |[SINCON](https://www.infosec-city.com/)|May|Singapore|-Feb|Yes||
@@ -66,7 +66,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[HITCON ENT](https://hitcon.org)|29-30 Oct, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |[BlackAlps](https://www.blackalps.ch)|6-7 Nov, 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
 |[UYBHYS](https://www.unlockyourbrain.bzh)|8-9 Nov, 2024|Brest, France|-30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
-|:star:[Code Blue](https://codeblue.jp/2024/en/):star:|14-15 Nov, 2024|Tokyo, Japan|-15 Aug,2024|Yes||
+|[Code Blue](https://codeblue.jp/2024/en/)|14-15 Nov, 2024|Tokyo, Japan|-15 Aug,2024|Yes||
 |[DeepSEC](https://deepsec.net)|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
 |:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-15 Aug&Sep&Oct, 2024|Yes||
 |[m0leCon](https://m0lecon.it/)|Dec|Turin, Italy|?-Sep|Yes||
