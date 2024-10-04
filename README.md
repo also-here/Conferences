@@ -24,7 +24,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[SecretCon](https://www.secretcon.com)|19-20 Jun, 2025|St Paul, MN|?-?|No?||
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|-Mar|No||
 |[GRRCon](https://grrcon.com/)|26-27 Sep, 2024|Grand Rapids, MI|-Jun|No||
-|:star:[CornCon](https://corncon.net):star:|4-5 Oct, 2024|Davenport, IA|-?|No||
+|[CornCon](https://corncon.net)|4-5 Oct, 2024|Davenport, IA|-?|No||
 |[BsidesPeoria](https://bsidespeoria.com/)|12 Oct, 2024|Peroia, IL|Jun-?|No|Free Tractor Parking?|
 |[Hackers Halted](https://hackerhalted.com/)|30-31 Oct, 2024|Atlanta, GA|-4 Jun, 2024|No|EC2|
 |[BsidesChicago](https://bsideschicago.org/)|2 Nov, 2024|Chicago, IL|10 Aug-14 Sep, 2024|No|meh.|
