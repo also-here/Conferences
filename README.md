@@ -11,16 +11,15 @@ Currently(ish) active CfP events are :star:STARED:star:.
 
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
-|[ShmooCon](https://www.shmoocon.org)|Jan|Washington D.C.|?25Sep-Dec|No|The last one!|
-|[ChiBRRCon](https://chibrrcon.com/)|Feb|Chicago, IL|-Dec|No||
-|[RedTeam Summit](https://redteamsummit.com)|Mar/Varies|Varies|Nov-Jan/Varies|No|Members only, must CFP for tix|
+|:star:[ShmooCon](https://www.shmoocon.org):star:|10-12 Jan, 2025|Washington D.C.|24 Nov, 2024|No|The last one!|
+|:star:[ChiBRRCon](https://chibrrcon.com/):star:|13 Feb, 2025|Chicago, IL|-31 Dec, 2024|No||
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
 |[PancakesCon](https://pancakescon.com/)|Mar|Online|Jan-Feb|No||
 |:star:[BsidesMKE](https://www.bsidesmke.org):star:|2 Apr, 2025|Milwaukee WI|Sep, 2024 - ?|No||
 |:star:[CypherCon](https://cyphercon.com/):star:|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
-|[ShowMeCon](https://showmecon.com)|May|St. Louis, MO|-Dec|Yes||
-|[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No||
+|:star:[THOTCON](https://www.thotcon.org):star:|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No||
 |[Bsides312](https://bsides312.org/)|May|Chicago, IL|Dec-Feb|No||
+|[ShowMeCon](https://showmecon.com)|6-8 Jun, 2025|St. Louis, MO|-Dec|Yes||
 |[SecretCon](https://www.secretcon.com)|19-20 Jun, 2025|St Paul, MN|?-?|No?||
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|-Mar|No||
 |[GRRCon](https://grrcon.com/)|26-27 Sep, 2024|Grand Rapids, MI|-Jun|No||
@@ -37,12 +36,12 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[NDC {London}](https://ndclondon.com)|27-31 Jan, 2025|London, England|May- 1 Sep, 2024|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |:star:[RuhrSec](https://www.ruhrsec.de):star:|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
 |[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Off-shoot of an Gao India Con|
-|[Insomni'hack](https://insomnihack.ch/)|Apr|Lausanne, Switzerland|-Jan|Yes||
+|:star:[Insomni'hack](https://insomnihack.ch/):star:|13-14 Mar, 2025|Lausanne, Switzerland|-10 Nov, 2025|Yes||
 |[SINCON](https://www.infosec-city.com/)|May|Singapore|-Feb|Yes||
 |:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg Sweden|Sep-?|Yes||
 |[OffensiveCon](https://www.offensivecon.org)|May|Berlin,Germany|-Mar|Yes||
 |[Hardwear.io US](https://www.hardwear.io)|May|Santa Clara, CA|Dec-Feb|Yes|$250 stateside. Prefer employer cover travel costs.|
-|[NorthSec](https://nsec.io/)|May|Montreal, Canada|Jan-Mar|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
+|[NorthSec](https://nsec.io/)|25 May, 2025|Montreal, Canada|Jan-Mar|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
 |[BSides Pristina](https://bsidesprishtina.org/)|May|Pristina, Kosovo|Nov-Feb|Yes|Rare Bsides covering travel, still a non-profit, limited budget|
 |[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|-Mar|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Short CFP window|
@@ -66,9 +65,10 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[HITCON ENT](https://hitcon.org)|29-30 Oct, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |[BlackAlps](https://www.blackalps.ch)|6-7 Nov, 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
 |[UYBHYS](https://www.unlockyourbrain.bzh)|8-9 Nov, 2024|Brest, France|-30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
-|[Code Blue](https://codeblue.jp/2024/en/)|14-15 Nov, 2024|Tokyo, Japan|-15 Aug,2024|Yes||
+|[Code Blue](https://codeblue.jp/2024/en/)|14-15 Nov, 2024|Tokyo, Japan|-15 Aug, 2024|Yes|From Overseas: Max 100,000 JPY|
+|[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
 |[DeepSEC](https://deepsec.net)|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
-|:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-15 Aug&Sep&Oct, 2024|Yes||
+|:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-30 Oct, 2024|Yes||
 |[m0leCon](https://m0lecon.it/)|"Spring" 2025|Turin, Italy|?Sep-|Yes||
 
 
