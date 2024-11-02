@@ -20,7 +20,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[THOTCON](https://www.thotcon.org):star:|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No||
 |[Bsides312](https://bsides312.org/)|May|Chicago, IL|Dec-Feb|No||
 |[ShowMeCon](https://showmecon.com)|6-8 Jun, 2025|St. Louis, MO|-Dec|Yes||
-|[SecretCon](https://www.secretcon.com)|19-20 Jun, 2025|St Paul, MN|?-?|No?||
+|:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?||
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|-Mar|No||
 |[GRRCon](https://grrcon.com/)|26-27 Sep, 2024|Grand Rapids, MI|-Jun|No||
 |[CornCon](https://corncon.net)|4-5 Oct, 2024|Davenport, IA|-?|No||
@@ -46,7 +46,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|-Mar|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Short CFP window|
 |[x33fcon](https://www.x33fcon.com)|13-14 Jun, 2024|Gydnia, Poland|-Feb|Yes||
-|[TROOPERS](https://troopers.de)|23-27 Jun, 2025|Heidelberg, Germany|Nov-Apr|Yes||
+|:star:[TROOPERS](https://troopers.de):star:|23-27 Jun, 2025|Heidelberg, Germany|Nov-Apr|Yes||
 |[REcon](https://recon.cx)|28-30 Jun, 2024|Montreal, Canada|Feb-Mar|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
 |[leHACK](https://lehack.org/)|5-6 Jul, 2024|Paris, France|Dec-Apr|Yes||
 |[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*||$600 Speaker fee + Hotel, Lunch|
@@ -56,7 +56,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[RomHack](https://romhack.io)|28 Sep, 2024|Rome, Italy|Feb-May|Yes||
 |[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Unsure if a there is a 2024 event|
 |[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|22 Jul - 1 Sep, 2024|Yes||
-|[RootedCon](https://cfp.rootedcon.com/)|15-16 Oct, 2024|Var. Spain/Lisbon, Portugal|Varies|Yes?|Multiple events non-currently w. open CFP|
+|:star:[RootedCon](https://cfp.rootedcon.com/):star:|6-8 Mar, 2025|Var. Spain/Lisbon, Portugal|Varies|Yes?|Multiple events. Current open CFP for Madrid|
 |[Hacktivity](https://hacktivity.com/)|17-18 Oct, 2024|Budapest, Hungary|-15 Jul, 2024|Yes|Limit travel 300 EUR+2 nights of hotel|
 |[No Hat](https://www.nohat.it/)|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
 |[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
@@ -68,7 +68,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Code Blue](https://codeblue.jp/2024/en/)|14-15 Nov, 2024|Tokyo, Japan|-15 Aug, 2024|Yes|From Overseas: Max 100,000 JPY|
 |[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
 |[DeepSEC](https://deepsec.net)|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
-|:star:[DefCamp](https://def.camp/):star:|28-29 Nov, 2024|Bucharest, Romania|-30 Oct, 2024|Yes||
+|[DefCamp](https://def.camp/)|28-29 Nov, 2024|Bucharest, Romania|-30 Oct, 2024|Yes||
 |[m0leCon](https://m0lecon.it/)|"Spring" 2025|Turin, Italy|?Sep-|Yes||
 
 
