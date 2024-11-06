@@ -43,6 +43,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Hardwear.io US](https://www.hardwear.io)|May|Santa Clara, CA|Dec-Feb|Yes|$250 stateside. Prefer employer cover travel costs.|
 |[NorthSec](https://nsec.io/)|25 May, 2025|Montreal, Canada|Jan-Mar|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
 |[BSides Pristina](https://bsidesprishtina.org/)|May|Pristina, Kosovo|Nov-Feb|Yes|Rare Bsides covering travel, still a non-profit, limited budget|
+|:star:[TyphoonCon](https://typhooncon.com/):star:|29-30 May, 2025|Seoul, Korea|Nov, 2024 - 1 Mar, 2025|Yes|Security research focused|
 |[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|-Mar|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Short CFP window|
 |[x33fcon](https://www.x33fcon.com)|13-14 Jun, 2024|Gydnia, Poland|-Feb|Yes||
