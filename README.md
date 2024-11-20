@@ -40,9 +40,9 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[Insomni'hack](https://insomnihack.ch/):star:|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
 |[SINCON](https://www.infosec-city.com/)|May|Singapore|-Feb|Yes||
 |:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg Sweden|Sep-?|Yes||
-|[OffensiveCon](https://www.offensivecon.org)|May|Berlin,Germany|-Mar|Yes||
+|[OffensiveCon](https://www.offensivecon.org)|16-17 May, 2025|Berlin,Germany|-Mar|Yes||
 |:star:[Hardwear.io US](https://www.hardwear.io):star:|30-31 May, 2025|Santa Clara, CA|18 Nov, 2024 - 20 Jan, 2025|Yes|$250 stateside. Prefer employer cover travel costs.|
-|[NorthSec](https://nsec.io/)|25 May, 2025|Montreal, Canada|Jan-Mar|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
+|:star:[NorthSec](https://nsec.io/):star:|25 May, 2025|Montreal, Canada|20 Nov, 2024 -16 Mar, 2025|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
 |[BSides Pristina](https://bsidesprishtina.org/)|May|Pristina, Kosovo|Nov-Feb|Yes|Rare Bsides covering travel, still a non-profit, limited budget|
 |:star:[TyphoonCon](https://typhooncon.com/):star:|29-30 May, 2025|Seoul, Korea|Nov, 2024 - 1 Mar, 2025|Yes|Security research focused|
 |[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|-Mar|Yes||
@@ -51,7 +51,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[TROOPERS](https://troopers.de):star:|23-27 Jun, 2025|Heidelberg, Germany|Nov-Apr|Yes||
 |[REcon](https://recon.cx)|28-30 Jun, 2024|Montreal, Canada|Feb-Mar|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
 |[leHACK](https://lehack.org/)|5-6 Jul, 2024|Paris, France|Dec-Apr|Yes||
-|[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*||$600 Speaker fee + Hotel, Lunch|
+|[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |[SEC-T](https://www.sec-t.org/)|10-13 Sep, 2024|Stockholm, Sweden|May-1 Aug, 2024|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|18-20 Sep, 2024|London, England|-May|Yes|Shares CFP system w/ SINCON|
