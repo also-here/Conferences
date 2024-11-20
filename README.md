@@ -35,7 +35,8 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[NDC {Security}](https://ndc-security.com)|20-25 Jan, 2025|Oslo, Norway|Jun- 15 Sep, 2024|Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
 |[NDC {London}](https://ndclondon.com)|27-31 Jan, 2025|London, England|May- 1 Sep, 2024|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
-|[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Off-shoot of an Gao India Con|
+|[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Multiple events in India,sometimes Germany|
+|[CanSecWest](https://www.secwest.net/)|Mar|Vancouver, Canada|Nov-Jan|Yes||
 |:star:[Insomni'hack](https://insomnihack.ch/):star:|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
 |[SINCON](https://www.infosec-city.com/)|May|Singapore|-Feb|Yes||
 |:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg Sweden|Sep-?|Yes||
