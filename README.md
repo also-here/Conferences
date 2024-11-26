@@ -11,7 +11,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
-|:star:[ShmooCon](https://www.shmoocon.org):star:|10-12 Jan, 2025|Washington D.C.|24 Nov, 2024|No|The last one!|
+|[ShmooCon](https://www.shmoocon.org)|10-12 Jan, 2025|Washington D.C.|24 Nov, 2024|No|The last one!|
 |:star:[ChiBRRCon](https://chibrrcon.com/):star:|13 Feb, 2025|Chicago, IL|-31 Dec, 2024|No||
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
 |[PancakesCon](https://pancakescon.com/)|Mar|Online|Jan-Feb|No||
@@ -37,7 +37,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
 |[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Multiple events in India,sometimes Germany|
 |[CanSecWest](https://www.secwest.net/)|Mar|Vancouver, Canada|Nov-Jan|Yes||
-|:star:[Insomni'hack](https://insomnihack.ch/):star:|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
+|[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
 |[SINCON](https://www.infosec-city.com/)|May|Singapore|-Feb|Yes||
 |:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg Sweden|Sep-?|Yes||
 |[OffensiveCon](https://www.offensivecon.org)|16-17 May, 2025|Berlin,Germany|-Mar|Yes||
