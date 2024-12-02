@@ -19,7 +19,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[CypherCon](https://cyphercon.com/):star:|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
 |:star:[THOTCON](https://www.thotcon.org):star:|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
 |[Bsides312](https://bsides312.org/)|May|Chicago, IL|Dec-Feb|No||
-|[ShowMeCon](https://showmecon.com)|6-8 Jun, 2025|St. Louis, MO|-Dec|Yes||
+|:star:[ShowMeCon](https://showmecon.com):star:|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 15 Jan, 2025|Yes||
 |:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?||
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|-Mar|No||
 |[GRRCon](https://grrcon.com/)|26-27 Sep, 2024|Grand Rapids, MI|-Jun|No||
