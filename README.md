@@ -72,7 +72,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
 |[DeepSEC](https://deepsec.net)|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
 |[DefCamp](https://def.camp/)|28-29 Nov, 2024|Bucharest, Romania|-30 Oct, 2024|Yes||
-|[m0leCon](https://m0lecon.it/)|"Spring" 2025|Turin, Italy|?Sep-|Yes||
+|:star:[m0leCon](https://m0lecon.it/):star:|22 Mar, 2025|Turin, Italy|25 Nov, 2024 - 31 Jan, 2025|Yes||
 
 
 ## CFP Sites and Other Info
