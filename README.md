@@ -40,13 +40,13 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[CanSecWest](https://www.secwest.net/)|Mar|Vancouver, Canada|Nov-Jan|Yes||
 |[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
 |:star:[SINCON](https://www.infosec-city.com/):star:|22-23 May, 2025|Singapore|12 Dec, 2024 - 18 Feb, 2025|Yes||
-|:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg, Sweden|Sep-?|Yes||
 |[OffensiveCon](https://www.offensivecon.org)|16-17 May, 2025|Berlin, Germany|-Mar|Yes||
 |:star:[Hardwear.io US](https://www.hardwear.io):star:|30-31 May, 2025|Santa Clara, CA|18 Nov, 2024 - 20 Jan, 2025|Yes|$250 stateside. Prefer employer cover travel costs.|
 |:star:[NorthSec](https://nsec.io/):star:|25 May, 2025|Montreal, Canada|20 Nov, 2024 -16 Mar, 2025|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
 |[BSides Pristina](https://bsidesprishtina.org/)|May|Pristina, Kosovo|Nov-Feb|Yes|Rare Bsides covering travel, still a non-profit, limited budget|
 |:star:[TyphoonCon](https://typhooncon.com/):star:|29-30 May, 2025|Seoul, Korea|Nov, 2024 - 1 Mar, 2025|Yes|Security research focused|
 |[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|-Mar|Yes||
+|:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg, Sweden|Sep-?|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
 |:star:[x33fcon](https://www.x33fcon.com):star:|13-14 Jun, 2025|Gydnia, Poland|18 Nov, 2024 - 2 Feb, 2025|Yes||
 |:star:[TROOPERS](https://troopers.de):star:|23-27 Jun, 2025|Heidelberg, Germany|Nov-Apr|Yes||
