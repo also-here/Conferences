@@ -35,11 +35,11 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[NDC {Security}](https://ndc-security.com)|20-25 Jan, 2025|Oslo, Norway|Jun- 15 Sep, 2024|Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
 |[NDC {London}](https://ndclondon.com)|27-31 Jan, 2025|London, England|May- 1 Sep, 2024|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
-|:star:[HackCon](https://www.hackcon.org/):star:|12-13 Feb, 2025|Oslo, Norway|- 31 Dev, 2024|Yes||
+|:star:[HackCon](https://www.hackcon.org/):star:|12-13 Feb, 2025|Oslo, Norway|- 31 Dec, 2024|Yes||
 |[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Multiple events in India,sometimes Germany|
 |[CanSecWest](https://www.secwest.net/)|Mar|Vancouver, Canada|Nov-Jan|Yes||
 |[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
-|[SINCON](https://www.infosec-city.com/)|May|Singapore|-Feb|Yes||
+|:star:[SINCON](https://www.infosec-city.com/):star:|22-23 May, 2025|Singapore|12 Dec, 2024 - 18 Feb, 2025|Yes||
 |:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg, Sweden|Sep-?|Yes||
 |[OffensiveCon](https://www.offensivecon.org)|16-17 May, 2025|Berlin, Germany|-Mar|Yes||
 |:star:[Hardwear.io US](https://www.hardwear.io):star:|30-31 May, 2025|Santa Clara, CA|18 Nov, 2024 - 20 Jan, 2025|Yes|$250 stateside. Prefer employer cover travel costs.|
