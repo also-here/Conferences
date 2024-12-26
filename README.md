@@ -41,7 +41,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
 |:star:[m0leCon](https://m0lecon.it/):star:|22 Mar, 2025|Turin, Italy|25 Nov, 2024 - 31 Jan, 2025|Yes||
 |:star:[SINCON](https://www.infosec-city.com/):star:|22-23 May, 2025|Singapore|12 Dec, 2024 - 18 Feb, 2025|Yes||
-|[OffensiveCon](https://www.offensivecon.org)|16-17 May, 2025|Berlin, Germany|-Mar|Yes||
+|:star:[OffensiveCon](https://www.offensivecon.org):star:|16-17 May, 2025|Berlin, Germany|11 Dec, 2024 - 2 Apr, 2025|Yes||
 |:star:[Hardwear.io US](https://www.hardwear.io):star:|30-31 May, 2025|Santa Clara, CA|18 Nov, 2024 - 20 Jan, 2025|Yes|$250 stateside. Prefer employer cover travel costs.|
 |:star:[NorthSec](https://nsec.io/):star:|25 May, 2025|Montreal, Canada|20 Nov, 2024 -16 Mar, 2025|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
 |[BSides Pristina](https://bsidesprishtina.org/)|May|Pristina, Kosovo|Nov-Feb|Yes|Rare Bsides covering travel, still a non-profit, limited budget|
