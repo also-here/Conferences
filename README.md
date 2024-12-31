@@ -50,9 +50,10 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg, Sweden|Sep-?|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
 |:star:[x33fcon](https://www.x33fcon.com):star:|13-14 Jun, 2025|Gydnia, Poland|18 Nov, 2024 - 2 Feb, 2025|Yes||
-|:star:[TROOPERS](https://troopers.de):star:|23-27 Jun, 2025|Heidelberg, Germany|Nov-Apr|Yes||
+|:star:[TROOPERS](https://troopers.de):star:|23-27 Jun, 2025|Heidelberg, Germany|Nov - Apr|Yes||
 |[REcon](https://recon.cx)|28-30 Jun, 2024|Montreal, Canada|Feb-Mar|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
 |[leHACK](https://lehack.org/)|5-6 Jul, 2024|Paris, France|Dec-Apr|Yes||
+|[Black Hat USA](https://www.blackhat.com/)|6-7 Aug, 2025|Las Vegas, NV|5 Feb - 2 Apr, 2025|Yes||
 |[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |[SEC-T](https://www.sec-t.org/)|10-13 Sep, 2024|Stockholm, Sweden|May-1 Aug, 2024|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
@@ -65,7 +66,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Hacktivity](https://hacktivity.com/)|17-18 Oct, 2024|Budapest, Hungary|-15 Jul, 2024|Yes|Limit travel 300 EUR+2 nights of hotel|
 |[No Hat](https://www.nohat.it/)|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
 |[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
-|[SecTor](https://www.blackhat.com/sector/)|23-24 Oct, 2024|Toronto, Canada|Apr-Jun|Yes|Joined BlackHat a few years ago|
+|[SecTor](https://www.blackhat.com/sector/)|1-2 Oct, 2025|Toronto, Canada|21 Mar - 16 May, 2025|Yes|Joined BlackHat a few years ago|
 |[hack.lu](https://hack.lu)|22-25 Oct, 2024|Luxembourg, Luxembourg|-1 Aug, 2024|Yes*|300 EUR for travel, room covered|
 |[HITCON ENT](https://hitcon.org)|29-30 Oct, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |[BlackAlps](https://www.blackalps.ch)|6-7 Nov, 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
@@ -74,6 +75,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
 |[DeepSEC](https://deepsec.net)|21-22 Nov, 2024|Vienna, Austria|-31 Jul, 2024|Yes||
 |[DefCamp](https://def.camp/)|28-29 Nov, 2024|Bucharest, Romania|-30 Oct, 2024|Yes||
+|[Black Hat USA](https://www.blackhat.com/)|10-11 Jun, 2025|London, UK|11 Jun - 6 Aug, 2025|Yes||
 
 
 
