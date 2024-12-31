@@ -12,12 +12,12 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
 |[ShmooCon](https://www.shmoocon.org)|10-12 Jan, 2025|Washington D.C.|24 Nov, 2024|No|The last one!|
-|:star:[ChiBRRCon](https://chibrrcon.com/):star:|13 Feb, 2025|Chicago, IL|-31 Dec, 2024|No||
+|[ChiBRRCon](https://chibrrcon.com/)|13 Feb, 2025|Chicago, IL|-31 Dec, 2024|No||
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
 |[PancakesCon](https://pancakescon.com/)|Mar|Online|Jan-Feb|No||
 |:star:[BsidesMKE](https://www.bsidesmke.org):star:|2 Apr, 2025|Milwaukee WI|Sep, 2024 - ?|No||
-|:star:[CypherCon](https://cyphercon.com/):star:|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
-|:star:[THOTCON](https://www.thotcon.org):star:|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
+|[CypherCon](https://cyphercon.com/)|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
+|[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
 |[Bsides312](https://bsides312.org/)|May|Chicago, IL|Dec-Feb|No||
 |:star:[ShowMeCon](https://showmecon.com):star:|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 15 Jan, 2025|Yes||
 |:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?||
@@ -35,7 +35,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[NDC {Security}](https://ndc-security.com)|20-25 Jan, 2025|Oslo, Norway|Jun- 15 Sep, 2024|Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
 |[NDC {London}](https://ndclondon.com)|27-31 Jan, 2025|London, England|May- 1 Sep, 2024|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
-|:star:[HackCon](https://www.hackcon.org/):star:|12-13 Feb, 2025|Oslo, Norway|- 31 Dec, 2024|Yes||
+|[HackCon](https://www.hackcon.org/)|12-13 Feb, 2025|Oslo, Norway|- 31 Dec, 2024|Yes||
 |[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Multiple events in India,sometimes Germany|
 |[CanSecWest](https://www.secwest.net/)|Mar|Vancouver, Canada|Nov-Jan|Yes||
 |[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
@@ -61,7 +61,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Unsure if a there is a 2024 event|
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|- 14 Jul, 2024|Yes||
 |[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|22 Jul - 1 Sep, 2024|Yes||
-|:star:[RootedCon](https://cfp.rootedcon.com/):star:|6-8 Mar, 2025|Var. Spain/Lisbon, Portugal|Varies|Yes?|Multiple events. Current open CFP for Madrid|
+|[RootedCon](https://cfp.rootedcon.com/)|6-8 Mar, 2025|Var. Spain/Lisbon, Portugal|Varies|Yes?|Multiple events.|
 |[Hacktivity](https://hacktivity.com/)|17-18 Oct, 2024|Budapest, Hungary|-15 Jul, 2024|Yes|Limit travel 300 EUR+2 nights of hotel|
 |[No Hat](https://www.nohat.it/)|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
 |[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused,Prefer employer cover travel costs.|
