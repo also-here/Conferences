@@ -19,7 +19,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[CypherCon](https://cyphercon.com/)|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
 |[Bsides312](https://bsides312.org/)|May|Chicago, IL|Dec-Feb|No||
-|:star:[ShowMeCon](https://showmecon.com):star:|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 15 Jan, 2025|Yes||
+|:star:[ShowMeCon](https://showmecon.com):star:|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes||
 |:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?||
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|-Mar|No||
 |[GRRCon](https://grrcon.com/)|26-27 Sep, 2024|Grand Rapids, MI|-Jun|No||
@@ -37,7 +37,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
 |[HackCon](https://www.hackcon.org/)|12-13 Feb, 2025|Oslo, Norway|- 31 Dec, 2024|Yes||
 |[Nullcon Berlin](https://nullcon.net)|Mar|Berlin, Germany|Oct-Dec|Yes|Multiple events in India,sometimes Germany|
-|[CanSecWest](https://www.secwest.net/)|Mar|Vancouver, Canada|Nov-Jan|Yes||
+|:star:[CanSecWest](https://www.secwest.net/):star:|?Mar? 2025 |Vancouver, Canada|Jan, 2025 -|Yes||
 |[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
 |:star:[m0leCon](https://m0lecon.it/):star:|22 Mar, 2025|Turin, Italy|25 Nov, 2024 - 31 Jan, 2025|Yes||
 |:star:[SINCON](https://www.infosec-city.com/):star:|22-23 May, 2025|Singapore|12 Dec, 2024 - 18 Feb, 2025|Yes||
@@ -52,24 +52,24 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |:star:[x33fcon](https://www.x33fcon.com):star:|13-14 Jun, 2025|Gydnia, Poland|18 Nov, 2024 - 2 Feb, 2025|Yes||
 |:star:[TROOPERS](https://troopers.de):star:|23-27 Jun, 2025|Heidelberg, Germany|Nov - Apr|Yes||
 |[REcon](https://recon.cx)|28-30 Jun, 2024|Montreal, Canada|Feb-Mar|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
-|[leHACK](https://lehack.org/)|27-29 Jun, 2025|Paris, France|Jan-Apr|Yes||
+|:star:[leHACK](https://lehack.org/):star:|27-29 Jun, 2025|Paris, France|10 Jan - 6 Apr,2025|Yes||
 |[Black Hat USA](https://www.blackhat.com/)|6-7 Aug, 2025|Las Vegas, NV|5 Feb - 2 Apr, 2025|Yes||
 |[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
-|[SEC-T](https://www.sec-t.org/)|10-13 Sep, 2024|Stockholm, Sweden|May-1 Aug, 2024|Yes||
+|:star:[SEC-T](https://www.sec-t.org/):star:|10-12 Sep, 2025|Stockholm, Sweden|Jan-1 Aug, 2025|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|18-20 Sep, 2024|London, England|-May|Yes||
 |[RomHack](https://romhack.io)|28 Sep, 2024|Rome, Italy|Feb-May|Yes||
 |[Hack In Paris](https://www.hackinparis.com/)|Sep|Paris, France|Sep-Feb|Yes|Unsure if a there is a 2024 event|
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|- 14 Jul, 2024|Yes||
 |[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|22 Jul - 1 Sep, 2024|Yes||
-|[RootedCon](https://cfp.rootedcon.com/)|6-8 Mar, 2025|Var. Spain/Lisbon, Portugal|Varies|Yes?|Multiple events.|
+|:star:[RootedCon](https://cfp.rootedcon.com/):star:|22-23 May, 2025|Var. Spain/Portugal/Mexico/Panama|15 Jan - 15 Feb, 2025|Yes?|Multiple events. CFP for Lisbon currently open|
 |[Hacktivity](https://hacktivity.com/)|17-18 Oct, 2024|Budapest, Hungary|-15 Jul, 2024|Yes|Limit travel 300 EUR+2 nights of hotel|
 |[No Hat](https://www.nohat.it/)|19 Oct, 2024|Bergamo, Italy|-15 Jul, 2024|Yes||
 |[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused, prefer employer cover travel costs.|
 |[SecTor](https://www.blackhat.com/sector/)|1-2 Oct, 2025|Toronto, Canada|21 Mar - 16 May, 2025|Yes|Joined BlackHat a few years ago|
 |:star:[hack.lu](https://hack.lu):star:|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|
 |[HITCON ENT](https://hitcon.org)|29-30 Oct, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
-|[BlackAlps](https://www.blackalps.ch)|6-7 Nov, 2024|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
+|[BlackAlps](https://www.blackalps.ch)|21-22 Nov, 2025|Yverdon-les-Bains Switzerland|-31 Jul, 2024|Yes||
 |[UYBHYS](https://www.unlockyourbrain.bzh)|8-9 Nov, 2024|Brest, France|-30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
 |[Code Blue](https://codeblue.jp/2024/en/)|14-15 Nov, 2024|Tokyo, Japan|-15 Aug, 2024|Yes|From Overseas: Max 100,000 JPY|
 |[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
