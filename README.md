@@ -40,13 +40,13 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
 |[m0leCon](https://m0lecon.it/)|22 Mar, 2025|Turin, Italy|25 Nov, 2024 - 31 Jan, 2025|Yes||
 |[Black Hat Asia](https://www.blackhat.com/)|3-4 Apr, 2025|Singapore|20 Sep - 13 Nov, 2024|Yes||
+|[CanSecWest](https://www.secwest.net/)|24-25 Apr, 2025 |Vancouver, Canada| Jan - 14 Feb, 2025|Yes||
 |:star:[SINCON](https://www.infosec-city.com/):star:|22-23 May, 2025|Singapore|12 Dec, 2024 - 18 Feb, 2025|Yes||
 |:star:[OffensiveCon](https://www.offensivecon.org):star:|16-17 May, 2025|Berlin, Germany|11 Dec, 2024 - 2 Apr, 2025|Yes||
 |[Hardwear.io US](https://www.hardwear.io)|30-31 May, 2025|Santa Clara, CA|18 Nov, 2024 - 20 Jan, 2025|Yes|$250 stateside. Prefer employer cover travel costs.|
-|:star:[NorthSec](https://nsec.io/):star:|25 May, 2025|Montreal, Canada|20 Nov, 2024 -16 Mar, 2025|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
+|:star:[NorthSec](https://nsec.io/):star:|25 May, 2025|Montreal, Canada|20 Nov, 2024 - 16 Mar, 2025|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
 |[BSides Pristina](https://bsidesprishtina.org/)|May|Pristina, Kosovo|Nov-Feb|Yes|Rare Bsides covering travel, unsure of 2025 event|
 |:star:[TyphoonCon](https://typhooncon.com/):star:|29-30 May, 2025|Seoul, Korea|Nov, 2024 - 1 Mar, 2025|Yes|Security research focused|
-|:star:[CanSecWest](https://www.secwest.net/):star:|15-16 Apr, 2025 |Vancouver, Canada| Jan, 2025 -|Yes||
 |:star:[CONFidence](https://confidence-conference.org):star:|2-3 Jun, 2025|Krakow, Poland|Dec, 2024 - 7 Mar, 2025|Yes*|travel expense limited|
 |:star:[SecurityFest](https://securityfest.com/):star:|4-5 Jun, 2025|Gothenburg, Sweden|Sep-?|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
@@ -62,7 +62,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[RomHack](https://romhack.io)|27 Sep, 2025|Rome, Italy|17, Feb - 18 May, 2025|Yes||
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|- 14 Jul, 2024|Yes||
 |[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|22 Jul - 1 Sep, 2024|Yes||
-|:star:[RootedCon](https://cfp.rootedcon.com/):star:|22-23 May, 2025|Var. Spain/Portugal/Mexico/Panama|15 Jan - 15 Feb, 2025|Yes?|Multiple events. CFP for Lisbon currently open|
+|[RootedCon](https://cfp.rootedcon.com/)|22-23 May, 2025|Var. Spain/Portugal/Mexico/Panama|15 Jan - 15 Feb, 2025|Yes?|Multiple events. No CFP currently open|
 |[Hacktivity](https://hacktivity.com/)|17-18 Oct, 2024|Budapest, Hungary|-15 Jul, 2024|Yes|Limit travel 300 EUR+2 nights of hotel|
 |[No Hat](https://www.nohat.it/)|18 Oct, 2025|Bergamo, Italy|- Jul, 2025?|Yes||
 |[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused, prefer employer cover travel costs.|
