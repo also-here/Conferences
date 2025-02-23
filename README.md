@@ -41,7 +41,7 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[m0leCon](https://m0lecon.it/)|22 Mar, 2025|Turin, Italy|25 Nov, 2024 - 31 Jan, 2025|Yes||
 |[Black Hat Asia](https://www.blackhat.com/)|3-4 Apr, 2025|Singapore|20 Sep - 13 Nov, 2024|Yes||
 |[CanSecWest](https://www.secwest.net/)|24-25 Apr, 2025 |Vancouver, Canada| Jan - 14 Feb, 2025|Yes||
-|:star:[SINCON](https://www.infosec-city.com/):star:|22-23 May, 2025|Singapore|12 Dec, 2024 - 18 Feb, 2025|Yes||
+|:star:[SINCON](https://www.infosec-city.com/):star:|22-23 May, 2025|Singapore|12 Dec, 2024 - 25 Feb, 2025|Yes||
 |:star:[OffensiveCon](https://www.offensivecon.org):star:|16-17 May, 2025|Berlin, Germany|11 Dec, 2024 - 2 Apr, 2025|Yes||
 |[Hardwear.io US](https://www.hardwear.io)|30-31 May, 2025|Santa Clara, CA|18 Nov, 2024 - 20 Jan, 2025|Yes|$250 stateside. Prefer employer cover travel costs.|
 |:star:[NorthSec](https://nsec.io/):star:|25 May, 2025|Montreal, Canada|20 Nov, 2024 - 16 Mar, 2025|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
@@ -52,14 +52,15 @@ Currently(ish) active CfP events are :star:STARED:star:.
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
 |[x33fcon](https://www.x33fcon.com)|13-14 Jun, 2025|Gydnia, Poland|18 Nov, 2024 - 2 Feb, 2025|Yes||
 |:star:[TROOPERS](https://troopers.de):star:|23-27 Jun, 2025|Heidelberg, Germany|18 Oct, 2024 - 16 Mar, 2025|Yes||
-|:star:[REcon](https://recon.cx):star:|27-29 Jun, 2025|Montreal, Canada|Feb - 25, Apr, 2025|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
+|:star:[REcon](https://recon.cx):star:|27-29 Jun, 2025|Montreal, Canada|Feb - 25 Apr, 2025|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
 |:star:[leHACK](https://lehack.org/):star:|27-29 Jun, 2025|Paris, France|10 Jan - 6 Apr, 2025|Yes||
 |:star:[Black Hat USA](https://www.blackhat.com/):star:|6-7 Aug, 2025|Las Vegas, NV|5 Feb - 2 Apr, 2025|Yes||
+|:star:[DEF CON](https://www.defcon.org/):star:|8-11 Aug, 2025|Las Vegas, NV| Feb - 1 Mar, 2025|$300 honorarium + 4 nights hotel||
 |[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |:star:[SEC-T](https://www.sec-t.org/):star:|10-12 Sep, 2025|Stockholm, Sweden|Jan-1 Aug, 2025|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |:star:[44CON](https://44con.com/):star:|17-19 Sep, 2025|London, England|30 Jan - 30 May, 2025|Yes||
-|[RomHack](https://romhack.io)|27 Sep, 2025|Rome, Italy|17, Feb - 18 May, 2025|Yes||
+|:star:[RomHack](https://romhack.io):star:|27 Sep, 2025|Rome, Italy|17 Feb - 18 May, 2025|Yes||
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|- 14 Jul, 2024|Yes||
 |[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|22 Jul - 1 Sep, 2024|Yes||
 |[RootedCon](https://cfp.rootedcon.com/)|22-23 May, 2025|Var. Spain/Portugal/Mexico/Panama|15 Jan - 15 Feb, 2025|Yes?|Multiple events. No CFP currently open|
