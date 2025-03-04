@@ -66,7 +66,7 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|- 14 Jul, 2024|Yes||
 |[SecTor](https://www.blackhat.com/sector/)|1-2 Oct, 2025|Toronto, Canada|21 Mar - 16 May, 2025|Yes|Joined BlackHat a few years ago|
 |[Hacktivity](https://hacktivity.com/)|3 Oct, 2025|Budapest, Hungary|- Jul, 2025|Yes|Limit travel 300 EUR+2 nights of hotel|
-|[HackFest](https://hackfest.ca)|11-12 Oct, 2024|Quebec City, Canada|22 Jul - 1 Sep, 2024|Yes||
+|[HackFest](https://hackfest.ca)|17-18 Oct, 2025|Quebec City, Canada|Jul- Sep|Yes||
 |[No Hat](https://www.nohat.it/)|18 Oct, 2025|Bergamo, Italy|- Jul, 2025?|Yes||
 |[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused, prefer employer cover travel costs.|
 |:star:[hack.lu](https://hack.lu):star:|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|
