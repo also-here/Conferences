@@ -18,12 +18,12 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[BsidesMKE](https://www.bsidesmke.org)|2 Apr, 2025|Milwaukee WI|Sep, 2024 - Jan, 2025|No||
 |[CypherCon](https://cyphercon.com/)|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
-|:star:[Bsides312](https://bsides312.org/):star:|1 Jun, 2025|Chicago, IL|15 Jan - 14 Mar, 2025|No||
+|[Bsides312](https://bsides312.org/)|1 Jun, 2025|Chicago, IL|15 Jan - 14 Mar, 2025|No||
 |[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes||
 |:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?||
 |:star:[BlueTeamCon](https://blueteamcon.com/):star:|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
 |:star:[GRRCon](https://grrcon.com/):star:|2-3 Oct, 2025|Grand Rapids, MI|Jan - 30 Jun, 2025|No||
-|[CornCon](https://corncon.net)|10-11 Oct, 2025|Davenport, IA|15 Mar -? 2025|No||
+|:star:[CornCon](https://corncon.net):star:|10-11 Oct, 2025|Davenport, IA|15 Mar -31 Jul, 2025|No||
 |[BsidesPeoria](https://bsidespeoria.com/)|25 Oct, 2025|Peroia, IL|Jun-?|No|Free Tractor Parking?|
 |[Hackers Halted](https://hackerhalted.com/)|1-2 Oct, 2025|Atlanta, GA|- Jun|No|EC2|
 |[BsidesChicago](https://bsideschicago.org/)|31 Oct - 1 Nov, 2025|Chicago, IL| Aug- Sep, 2025|No||
@@ -46,13 +46,13 @@ Currently(ish) active CfP events:star:STARED:star:.
 |:star:[OffensiveCon](https://www.offensivecon.org):star:|16-17 May, 2025|Berlin, Germany|11 Dec, 2024 - 2 Apr, 2025|Yes||
 |[SINCON](https://www.infosec-city.com/)|22-23 May, 2025|Singapore|12 Dec, 2024 - 25 Feb, 2025|Yes||
 |[RootedCon](https://cfp.rootedcon.com/)|22-23 May, 2025|Var. Spain/Portugal/Mexico/Panama|15 Jan - 15 Feb, 2025|Yes?|Multiple events. No CFP currently open|
-|:star:[NorthSec](https://nsec.io/):star:|25 May, 2025|Montreal, Canada|20 Nov, 2024 - 16 Mar, 2025|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
+|[NorthSec](https://nsec.io/)|25 May, 2025|Montreal, Canada|20 Nov, 2024 - 16 Mar, 2025|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
 |[TyphoonCon](https://typhooncon.com/)|29-30 May, 2025|Seoul, Korea|Nov, 2024 - 1 Mar, 2025|Yes|Security research focused|
 |[Hardwear.io US](https://www.hardwear.io)|30-31 May, 2025|Santa Clara, CA|18 Nov, 2024 - 20 Jan, 2025|Yes|$250 stateside. Prefer employer cover travel costs.|
-|:star:[CONFidence](https://confidence-conference.org):star:|2-3 Jun, 2025|Krakow, Poland|Dec, 2024 - 7 Mar, 2025|Yes*|travel expense limited|
+|[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|Dec, 2024 - 7 Mar, 2025|Yes*|travel expense limited|
 |[SecurityFest](https://securityfest.com/)|4-5 Jun, 2025|Gothenburg, Sweden|Sep-Mar|Yes||
 |[x33fcon](https://www.x33fcon.com)|13-14 Jun, 2025|Gydnia, Poland|18 Nov, 2024 - 2 Feb, 2025|Yes||
-|:star:[TROOPERS](https://troopers.de):star:|23-27 Jun, 2025|Heidelberg, Germany|18 Oct, 2024 - 16 Mar, 2025|Yes||
+|[TROOPERS](https://troopers.de)|23-27 Jun, 2025|Heidelberg, Germany|18 Oct, 2024 - 16 Mar, 2025|Yes||
 |:star:[REcon](https://recon.cx):star:|27-29 Jun, 2025|Montreal, Canada|Feb - 25 Apr, 2025|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
 |:star:[leHACK](https://lehack.org/):star:|27-29 Jun, 2025|Paris, France|10 Jan - 6 Apr, 2025|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
