@@ -18,6 +18,7 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[CypherCon](https://cyphercon.com/)|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
 |[Bsides312](https://bsides312.org/)|1 Jun, 2025|Chicago, IL|15 Jan - 14 Mar, 2025|No||
+|[BsidesDSM](https://bsidesdsm.org/)|7 Jun, 2025|Des Moines, IA|1 Mar - 20 Apr, 2025|No||
 |[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes||
 |:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?||
 |:star:[BlueTeamCon](https://blueteamcon.com/):star:|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
@@ -70,6 +71,7 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused, prefer employer cover travel costs.|
 |:star:[hack.lu](https://hack.lu):star:|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|
 |[HITCON ENT](https://hitcon.org)|29-30 Oct, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
+|:star:[NullByte](https://nullbyte-con.org):star:|8 Nov, 2025|Salvador, Brazil|-1 Sep, 2025|Yes?|https://www.papercall.io/nullbyte|
 |[UYBHYS](https://www.unlockyourbrain.bzh)|8-9 Nov, 2024|Brest, France|-30 Jun, 2024|Yes|Unlock Your Brain, Harden Your System|
 |:star:[DefCamp](https://def.camp/):star:|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes|From Overseas: Max 100,000 JPY|
