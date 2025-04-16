@@ -64,7 +64,7 @@ Currently(ish) active CfP events:star:STARED:star:.
 |:star:[RomHack](https://romhack.io):star:|27 Sep, 2025|Rome, Italy|17 Feb - 18 May, 2025|Yes||
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|-14 Jul, 2024|Yes||
 |:star:[SecTor](https://www.blackhat.com/sector/):star:|1-2 Oct, 2025|Toronto, Canada|21 Mar - 16 May, 2025|Yes|Joined BlackHat a few years ago|
-|[Hacktivity](https://hacktivity.com/)|3 Oct, 2025|Budapest, Hungary|- Jul, 2025|Yes|Limit travel 300 EUR+2 nights of hotel|
+|:star:[Hacktivity](https://hacktivity.com/):star:|3 Oct, 2025|Budapest, Hungary|-30 May, 2025|Yes|Limit travel 150 EUR+1 night*  of hotel|
 |[HackFest](https://hackfest.ca)|17-18 Oct, 2025|Quebec City, Canada|Jul- Sep|Yes||
 |:star:[No Hat](https://www.nohat.it/):star:|18 Oct, 2025|Bergamo, Italy|-15 Jul, 2025|Yes||
 |[Hardwear.io NL](https://hardwear.io)|21-25 Oct, 2024|Amsterdam, Netherlands|1 Jun-10 Aug, 2024|Yes|Hardware focused, prefer employer cover travel costs.|
