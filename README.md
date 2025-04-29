@@ -13,15 +13,15 @@ Currently(ish) active CfP events:star:STARED:star:.
 |------|------|------|------|------|------|
 |[ChiBRRCon](https://chibrrcon.com/)|13 Feb, 2025|Chicago, IL|-31 Dec, 2024|No||
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
-|[PancakesCon](https://pancakescon.com/)|Mar|Online|Jan-Feb|No||
+|[PancakesCon](https://pancakescon.com/)|Mar|Online|Jan-Feb|No|On-Hold|
 |[BsidesMKE](https://www.bsidesmke.org)|2 Apr, 2025|Milwaukee WI|Sep, 2024 - Jan, 2025|No||
 |[CypherCon](https://cyphercon.com/)|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
 |[Bsides312](https://bsides312.org/)|1 Jun, 2025|Chicago, IL|15 Jan - 14 Mar, 2025|No||
-|[BsidesDSM](https://bsidesdsm.org/)|7 Jun, 2025|Des Moines, IA|1 Mar - 20 Apr, 2025|No||
+|[BsidesDSM](https://bsidesdsm.org/)|7 Jun, 2025|Des Moines, IA|1 Mar - 30 Apr, 2025|No||
 |[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes||
-|:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?||
-|:star:[BlueTeamCon](https://blueteamcon.com/):star:|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
+|:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?|Rolling CFP, always open?|
+|[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
 |:star:[GRRCon](https://grrcon.com/):star:|2-3 Oct, 2025|Grand Rapids, MI|Jan - 30 Jun, 2025|No||
 |:star:[CornCon](https://corncon.net):star:|10-11 Oct, 2025|Davenport, IA|15 Mar -31 Jul, 2025|No||
 |[BsidesPeoria](https://bsidespeoria.com/)|25 Oct, 2025|Peroia, IL|Jun-?|No|Free Tractor Parking?|
@@ -53,14 +53,14 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[SecurityFest](https://securityfest.com/)|4-5 Jun, 2025|Gothenburg, Sweden|Sep-Mar|Yes||
 |[x33fcon](https://www.x33fcon.com)|13-14 Jun, 2025|Gydnia, Poland|18 Nov, 2024 - 2 Feb, 2025|Yes||
 |[TROOPERS](https://troopers.de)|23-27 Jun, 2025|Heidelberg, Germany|18 Oct, 2024 - 16 Mar, 2025|Yes||
-|:star:[REcon](https://recon.cx):star:|27-29 Jun, 2025|Montreal, Canada|Feb - 25 Apr, 2025|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
+|[REcon](https://recon.cx)|27-29 Jun, 2025|Montreal, Canada|Feb - 25 Apr, 2025|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
 |[leHACK](https://lehack.org/)|27-29 Jun, 2025|Paris, France|10 Jan - 6 Apr, 2025|Yes||
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
 |[Black Hat USA](https://www.blackhat.com/)|6-7 Aug, 2025|Las Vegas, NV|5 Feb - 2 Apr, 2025|Yes||
 |:star:[DEF CON](https://www.defcon.org/):star:|7-10 Aug, 2025|Las Vegas, NV| Feb - 1 May, 2025|$300 honorarium + 4 nights hotel||
 |[HITCON CMT](https://hitcon.org)|23-24 Aug, 2024|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |:star:[SEC-T](https://www.sec-t.org/):star:|10-12 Sep, 2025|Stockholm, Sweden|Jan-1 Aug, 2025|Yes||
-|:star:[BruCON](https://www.brucon.org):star:|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
+|[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |:star:[44CON](https://44con.com/):star:|17-19 Sep, 2025|London, England|30 Jan - 30 May, 2025|Yes||
 |:star:[RomHack](https://romhack.io):star:|27 Sep, 2025|Rome, Italy|17 Feb - 18 May, 2025|Yes||
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|-14 Jul, 2024|Yes||
@@ -77,7 +77,7 @@ Currently(ish) active CfP events:star:STARED:star:.
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes|From Overseas: Max 100,000 JPY|
 |[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
 |:star:[DeepSEC](https://deepsec.net):star:|20-21 Nov, 2025|Vienna, Austria|-31 Jul, 2025|Yes|Travel EUR 800|
-|[BlackAlps](https://www.blackalps.ch)|20-21 Nov, 2025|Yverdon-les-Bains Switzerland|?-31 Jul, 2025|Yes||
+|:star:[BlackAlps](https://www.blackalps.ch):star:|20-21 Nov, 2025|Yverdon-les-Bains Switzerland|?-31 Jul, 2025|Yes*||
 |[Black Hat Europe](https://www.blackhat.com/)|8-11 Dec, 2025|London, UK|11 Jun - 6 Aug, 2025|Yes||
 
 
