@@ -37,7 +37,6 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[NDC {London}](https://ndclondon.com)|26-30 Jan, 2026|London, England|May- 7 Sep, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
 |:star:[HackCon](https://www.hackcon.org/):star:|11-12 Feb, 2026|Oslo, Norway|- 15 Dec, 2025|Yes||
-
 |[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
 |[m0leCon](https://m0lecon.it/)|22 Mar, 2025|Turin, Italy|25 Nov, 2024 - 31 Jan, 2025|Yes||
 |[Black Hat Asia](https://www.blackhat.com/)|21-24 Apr, 2026|Singapore|Sep - Nov|Yes||
