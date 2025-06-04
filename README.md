@@ -5,7 +5,7 @@ List of some InfoSec/Hacker Cons - Ordered by the date of the conference and man
 
 Strong focus on cons convenient to Chicagoland or that will help cover travel expenses.
 Cons with upcoming, announced dates listed with the full date. 
-Currently(ish) active CfP events:star:STARED:star:.
+Currently(ish) active CfP events :star: STARRED :star:.
 
 ### "Midwest Close"
 
