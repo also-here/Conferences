@@ -72,7 +72,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[hack.lu](https://hack.lu)|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|
 |[HITCON CISO](https://hitcon.org)|22 Oct, 2025|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
 |:star:[NullByte](https://nullbyte-con.org):star:|8 Nov, 2025|Salvador, Brazil|-1 Sep, 2025|Yes?|https://www.papercall.io/nullbyte|
-|:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|7-89 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
+|:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|7-9 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
 |:star:[DefCamp](https://def.camp/):star:|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes|From Overseas: Max 100,000 JPY|
 |[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
