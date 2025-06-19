@@ -5,7 +5,7 @@ List of some InfoSec/Hacker Cons - Ordered by the date of the conference and man
 
 Strong focus on cons convenient to Chicagoland or that will help cover travel expenses.
 Cons with upcoming, announced dates listed with the full date. 
-Currently(ish) active CfP events:star:STARED:star:.
+Currently(ish) active CfP events :star: STARRED :star:.
 
 ### "Midwest Close"
 
@@ -56,8 +56,13 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
 |[Black Hat USA](https://www.blackhat.com/)|6-7 Aug, 2025|Las Vegas, NV|5 Feb - 2 Apr, 2025|Yes||
 |[DEF CON](https://www.defcon.org/)|7-10 Aug, 2025|Las Vegas, NV| Feb - 1 May, 2025|$300 honorarium + 4 nights hotel||
+<<<<<<< HEAD
 |[HITCON](https://hitcon.org)|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
 |[Nullcon Berlin](https://nullcon.net)|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes||
+=======
+|:star:[HITCON](https://hitcon.org):star:|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
+|:star:[Nullcon Berlin](https://nullcon.net):star:|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes|Travel reimbursement for New Research|
+>>>>>>> f19ece33587a2b8ae6089c6f1110d1103934b00c
 |:star:[SEC-T](https://www.sec-t.org/):star:|10-12 Sep, 2025|Stockholm, Sweden|Jan-1 Aug, 2025|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|17-19 Sep, 2025|London, England|30 Jan - 30 May, 2025|Yes||
@@ -71,7 +76,7 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[Hardwear.io NL](https://hardwear.io)|17-21 Nov, 2025|Amsterdam, Netherlands|23 Jun- 22 Aug, 2025|Yes|Hardware focused, prefer employer cover travel costs.|
 |[hack.lu](https://hack.lu)|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|    
 |:star:[NullByte](https://nullbyte-con.org):star:|8 Nov, 2025|Salvador, Brazil|-1 Sep, 2025|Yes?|https://www.papercall.io/nullbyte|
-|:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|7-89 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
+|:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|7-9 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
 |:star:[DefCamp](https://def.camp/):star:|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes||
 |[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
