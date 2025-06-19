@@ -24,7 +24,7 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
 |:star:[GRRCon](https://grrcon.com/):star:|2-3 Oct, 2025|Grand Rapids, MI|Jan - 30 Jun, 2025|No||
 |:star:[CornCon](https://corncon.net):star:|10-11 Oct, 2025|Davenport, IA|15 Mar -31 Jul, 2025|No||
-|[BsidesPeoria](https://bsidespeoria.com/)|25 Oct, 2025|Peroia, IL|Jun-?|No|Free Tractor Parking?|
+|:star:[BsidesPeoria](https://bsidespeoria.com/):star:|25 Oct, 2025|Peroia, IL|2 Jun - 31 Aug, 2025|No||
 |[Hackers Halted](https://hackerhalted.com/)|1-2 Oct, 2025|Atlanta, GA|- May 31, 2025|No|EC2|
 |[BsidesChicago](https://bsideschicago.org/)|31 Oct - 1 Nov, 2025|Chicago, IL| 28 Jun - 31 Jul, 2025|No||
 
@@ -56,8 +56,8 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
 |[Black Hat USA](https://www.blackhat.com/)|6-7 Aug, 2025|Las Vegas, NV|5 Feb - 2 Apr, 2025|Yes||
 |[DEF CON](https://www.defcon.org/)|7-10 Aug, 2025|Las Vegas, NV| Feb - 1 May, 2025|$300 honorarium + 4 nights hotel||
-|:star:[HITCON](https://hitcon.org):star:|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
-|:star:[Nullcon Berlin](https://nullcon.net):star:|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes||
+|[HITCON](https://hitcon.org)|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
+|[Nullcon Berlin](https://nullcon.net)|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes||
 |:star:[SEC-T](https://www.sec-t.org/):star:|10-12 Sep, 2025|Stockholm, Sweden|Jan-1 Aug, 2025|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|17-19 Sep, 2025|London, England|30 Jan - 30 May, 2025|Yes||
@@ -66,20 +66,19 @@ Currently(ish) active CfP events:star:STARED:star:.
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|-14 Jul, 2024|Yes||
 |[SecTor](https://www.blackhat.com/sector/)|1-2 Oct, 2025|Toronto, Canada|21 Mar - 16 May, 2025|Yes|Joined BlackHat a few years ago|
 |[Hacktivity](https://hacktivity.com/)|3 Oct, 2025|Budapest, Hungary|-30 May, 2025|Yes|Limit travel 150 EUR+1 night*  of hotel|
-|[HackFest](https://hackfest.ca)|16-18 Oct, 2025|Quebec City, Canada|1 May - 31 Aug|Yes||
+|:star:[HackFest](https://hackfest.ca):star:|16-18 Oct, 2025|Quebec City, Canada|1 May - 31 Aug, 2025|Yes||
 |:star:[No Hat](https://www.nohat.it/):star:|18 Oct, 2025|Bergamo, Italy|-15 Jul, 2025|Yes||
-|[Hardwear.io NL](https://hardwear.io)|17-21 Nov, 2025|Amsterdam, Netherlands| Jun- Aug|Yes|Hardware focused, prefer employer cover travel costs.|
-|[hack.lu](https://hack.lu)|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|
-|[HITCON CISO](https://hitcon.org)|22 Oct, 2025|Taiwan|Apr-Jun|No*|$600 Speaker fee + Hotel, Lunch|
+|[Hardwear.io NL](https://hardwear.io)|17-21 Nov, 2025|Amsterdam, Netherlands|23 Jun- 22 Aug, 2025|Yes|Hardware focused, prefer employer cover travel costs.|
+|[hack.lu](https://hack.lu)|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|    
 |:star:[NullByte](https://nullbyte-con.org):star:|8 Nov, 2025|Salvador, Brazil|-1 Sep, 2025|Yes?|https://www.papercall.io/nullbyte|
 |:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|7-89 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
 |:star:[DefCamp](https://def.camp/):star:|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
-|:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes|From Overseas: Max 100,000 JPY|
+|:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes||
 |[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
 |:star:[DeepSEC](https://deepsec.net):star:|20-21 Nov, 2025|Vienna, Austria|-31 Jul, 2025|Yes|Travel EUR 800|
 |:star:[BlackAlps](https://www.blackalps.ch):star:|20-21 Nov, 2025|Yverdon-les-Bains Switzerland|?-31 Jul, 2025|Yes*||
 |:star:[NDC {Security Manchester}](https://ndcsecurity.co.uk/):star:|1-4 Dec, 2025|Manchester, England|Jun - 3 Aug, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|NDC  {  }
-|[Black Hat Europe](https://www.blackhat.com/)|8-11 Dec, 2025|London, UK|11 Jun - 6 Aug, 2025|Yes||
+|:star:[Black Hat Europe](https://www.blackhat.com/):star:|8-11 Dec, 2025|London, UK|11 Jun - 6 Aug, 2025|Yes||
 
 
 ### "Retired"
