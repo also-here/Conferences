@@ -56,13 +56,10 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[Area41](https://area41.io/)|Jun|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
 |[Black Hat USA](https://www.blackhat.com/)|6-7 Aug, 2025|Las Vegas, NV|5 Feb - 2 Apr, 2025|Yes||
 |[DEF CON](https://www.defcon.org/)|7-10 Aug, 2025|Las Vegas, NV| Feb - 1 May, 2025|$300 honorarium + 4 nights hotel||
-<<<<<<< HEAD
 |[HITCON](https://hitcon.org)|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
 |[Nullcon Berlin](https://nullcon.net)|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes||
-=======
 |:star:[HITCON](https://hitcon.org):star:|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
 |:star:[Nullcon Berlin](https://nullcon.net):star:|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes|Travel reimbursement for New Research|
->>>>>>> f19ece33587a2b8ae6089c6f1110d1103934b00c
 |:star:[SEC-T](https://www.sec-t.org/):star:|10-12 Sep, 2025|Stockholm, Sweden|Jan-1 Aug, 2025|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|17-19 Sep, 2025|London, England|30 Jan - 30 May, 2025|Yes||
