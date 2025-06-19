@@ -76,7 +76,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|7-9 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
 |:star:[DefCamp](https://def.camp/):star:|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes||
-|[AVTOYKO](https://www.avtokyo.org/)|16 Nov, 2024|Tokyo, Japan|-28 Sep,2024|Yes||
+|[AVTOYKO](https://www.avtokyo.org/)|23 Nov, 2025|Tokyo, Japan|- Sep|Yes||
 |:star:[DeepSEC](https://deepsec.net):star:|20-21 Nov, 2025|Vienna, Austria|-31 Jul, 2025|Yes|Travel EUR 800|
 |:star:[BlackAlps](https://www.blackalps.ch):star:|20-21 Nov, 2025|Yverdon-les-Bains Switzerland|?-31 Jul, 2025|Yes*||
 |:star:[NDC {Security Manchester}](https://ndcsecurity.co.uk/):star:|1-4 Dec, 2025|Manchester, England|Jun - 3 Aug, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|NDC  {  }
