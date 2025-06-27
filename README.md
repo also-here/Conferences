@@ -13,7 +13,6 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |------|------|------|------|------|------|
 |[ChiBRRCon](https://chibrrcon.com/)|13 Feb, 2025|Chicago, IL|-31 Dec, 2024|No||
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
-|[PancakesCon](https://pancakescon.com/)|Mar|Online|Jan-Feb|No|On-Hold|
 |[BsidesMKE](https://www.bsidesmke.org)|2 Apr, 2025|Milwaukee WI|Sep, 2024 - Jan, 2025|No||
 |[CypherCon](https://cyphercon.com/)|3-4 Apr, 2025|Milwaukee WI|Sep - 31 Dec, 2024|No||
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
@@ -22,6 +21,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes||
 |:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?|Rolling CFP, always open?|
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
+|[PancakesCon](https://pancakescon.com/)|21 Sep, 2025|Online|26 Jul-9 Aug, 2025|No|partnering with ComfyCon Australia|
 |:star:[GRRCon](https://grrcon.com/):star:|2-3 Oct, 2025|Grand Rapids, MI|Jan - 30 Jun, 2025|No||
 |:star:[CornCon](https://corncon.net):star:|10-11 Oct, 2025|Davenport, IA|15 Mar -31 Jul, 2025|No||
 |:star:[BsidesPeoria](https://bsidespeoria.com/):star:|25 Oct, 2025|Peroia, IL|2 Jun - 31 Aug, 2025|No||
