@@ -22,19 +22,19 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?|Rolling CFP, always open?|
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
 |[PancakesCon](https://pancakescon.com/)|21 Sep, 2025|Online|26 Jul-9 Aug, 2025|No|partnering with ComfyCon Australia|
-|:star:[GRRCon](https://grrcon.com/):star:|2-3 Oct, 2025|Grand Rapids, MI|Jan - 30 Jun, 2025|No||
+|[GRRCon](https://grrcon.com/)|2-3 Oct, 2025|Grand Rapids, MI|Jan - 30 Jun, 2025|No||
 |:star:[CornCon](https://corncon.net):star:|10-11 Oct, 2025|Davenport, IA|15 Mar -31 Jul, 2025|No||
 |:star:[BsidesPeoria](https://bsidespeoria.com/):star:|25 Oct, 2025|Peroia, IL|2 Jun - 31 Aug, 2025|No||
 |[Hackers Halted](https://hackerhalted.com/)|1-2 Oct, 2025|Atlanta, GA|- May 31, 2025|No|EC2|
-|[BsidesChicago](https://bsideschicago.org/)|31 Oct - 1 Nov, 2025|Chicago, IL| 28 Jun - 31 Jul, 2025|No||
+|:star:[BsidesChicago](https://bsideschicago.org/):star:|31 Oct - 1 Nov, 2025|Chicago, IL| 28 Jun - 31 Jul, 2025|No||
 
 
 ### Travel assitance available
 
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
-|[NDC {Security}](https://ndc-security.com)|2-5 Mar, 2026|Oslo, Norway|Jun- Sep |Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
-|[NDC {London}](https://ndclondon.com)|26-30 Jan, 2026|London, England|May- 7 Sep, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
+|[NDC {Security}](https://ndc-security.com)|2-5 Mar, 2026|Oslo, Norway|Jul- Sep |Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
+|:star:[NDC {London}](https://ndclondon.com):star:|26-30 Jan, 2026|London, England|May- 7 Sep, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
 |:star:[HackCon](https://www.hackcon.org/):star:|11-12 Feb, 2026|Oslo, Norway|- 15 Dec, 2025|Yes||
 |[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
@@ -58,8 +58,8 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[DEF CON](https://www.defcon.org/)|7-10 Aug, 2025|Las Vegas, NV| Feb - 1 May, 2025|$300 honorarium + 4 nights hotel||
 |[HITCON](https://hitcon.org)|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
 |[Nullcon Berlin](https://nullcon.net)|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes||
-|:star:[HITCON](https://hitcon.org):star:|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
-|:star:[Nullcon Berlin](https://nullcon.net):star:|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes|Travel reimbursement for New Research|
+|[HITCON](https://hitcon.org)|15-16 Aug, 2025|Taiwan|May- 8 Jun, 2025|No*|$400 Speaker fee + Hotel, Lunch|
+|[Nullcon Berlin](https://nullcon.net)|4-5 Sep, 2025|Berlin, Germany|1 Apr - 10 Jun, 2025|Yes|Travel reimbursement for New Research|
 |:star:[SEC-T](https://www.sec-t.org/):star:|10-12 Sep, 2025|Stockholm, Sweden|Jan-1 Aug, 2025|Yes||
 |[BruCON](https://www.brucon.org)|16-20 Sep, 2024|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|17-19 Sep, 2025|London, England|30 Jan - 30 May, 2025|Yes||
@@ -70,16 +70,16 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[Hacktivity](https://hacktivity.com/)|3 Oct, 2025|Budapest, Hungary|-30 May, 2025|Yes|Limit travel 150 EUR+1 night*  of hotel|
 |:star:[HackFest](https://hackfest.ca):star:|16-18 Oct, 2025|Quebec City, Canada|1 May - 31 Aug, 2025|Yes||
 |:star:[No Hat](https://www.nohat.it/):star:|18 Oct, 2025|Bergamo, Italy|-15 Jul, 2025|Yes||
-|[Hardwear.io NL](https://hardwear.io)|17-21 Nov, 2025|Amsterdam, Netherlands|23 Jun- 22 Aug, 2025|Yes|Hardware focused, prefer employer cover travel costs.|
+|[Hardwear.io NL](https://hardwear.io)|20-21 Nov, 2025|Amsterdam, Netherlands|1 Jul- 22 Aug, 2025|Yes|Hardware focused, prefer employer cover travel costs.|
 |[hack.lu](https://hack.lu)|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|    
 |:star:[NullByte](https://nullbyte-con.org):star:|8 Nov, 2025|Salvador, Brazil|-1 Sep, 2025|Yes?|https://www.papercall.io/nullbyte|
-|:star:[UYBHYS](https://www.unlockyourbrain.bzh):star:|7-9 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
+|[UYBHYS](https://www.unlockyourbrain.bzh)|7-9 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
 |:star:[DefCamp](https://def.camp/):star:|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes||
 |[AVTOYKO](https://www.avtokyo.org/)|23 Nov, 2025|Tokyo, Japan|- Sep|Yes||
 |:star:[DeepSEC](https://deepsec.net):star:|20-21 Nov, 2025|Vienna, Austria|-31 Jul, 2025|Yes|Travel EUR 800|
 |:star:[BlackAlps](https://www.blackalps.ch):star:|20-21 Nov, 2025|Yverdon-les-Bains Switzerland|?-31 Jul, 2025|Yes*||
-|:star:[NDC {Security Manchester}](https://ndcsecurity.co.uk/):star:|1-4 Dec, 2025|Manchester, England|Jun - 3 Aug, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|NDC  {  }
+|:star:[NDC {Security Manchester}](https://ndcsecurity.co.uk/):star:|1-4 Dec, 2025|Manchester, England|Jun - 3 Aug, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |:star:[Black Hat Europe](https://www.blackhat.com/):star:|8-11 Dec, 2025|London, UK|11 Jun - 6 Aug, 2025|Yes||
 
 
