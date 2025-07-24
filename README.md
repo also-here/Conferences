@@ -21,7 +21,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes||
 |:star:[SecretCon](https://www.secretcon.com):star:|19-20 Jun, 2025|St Paul, MN|?-?|No?|Rolling CFP, always open?|
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
-|[PancakesCon](https://pancakescon.com/)|21 Sep, 2025|Online|26 Jul-9 Aug, 2025|No|partnering with ComfyCon Australia|
+|:star:[PancakesCon](https://pancakescon.com/):star:|21 Sep, 2025|Online|26 Jul-9 Aug, 2025|No|partnering with ComfyCon Australia|
 |[GRRCon](https://grrcon.com/)|2-3 Oct, 2025|Grand Rapids, MI|Jan - 30 Jun, 2025|No||
 |:star:[CornCon](https://corncon.net):star:|10-11 Oct, 2025|Davenport, IA|15 Mar -31 Jul, 2025|No||
 |:star:[BsidesPeoria](https://bsidespeoria.com/):star:|25 Oct, 2025|Peroia, IL|2 Jun - 31 Aug, 2025|No||
@@ -67,14 +67,14 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[SecTor](https://www.blackhat.com/sector/)|1-2 Oct, 2025|Toronto, Canada|21 Mar - 16 May, 2025|Yes|Joined BlackHat a few years ago|
 |[Hacktivity](https://hacktivity.com/)|3 Oct, 2025|Budapest, Hungary|-30 May, 2025|Yes|Limit travel 150 EUR+1 night*  of hotel|
 |:star:[HackFest](https://hackfest.ca):star:|16-18 Oct, 2025|Quebec City, Canada|1 May - 31 Aug, 2025|Yes||
-|:star:[No Hat](https://www.nohat.it/):star:|18 Oct, 2025|Bergamo, Italy|-15 Jul, 2025|Yes||
-|[Hardwear.io NL](https://hardwear.io)|20-21 Nov, 2025|Amsterdam, Netherlands|1 Jul- 22 Aug, 2025|Yes|Hardware focused, prefer employer cover travel costs.|
+|[No Hat](https://www.nohat.it/)|18 Oct, 2025|Bergamo, Italy|-15 Jul, 2025|Yes||
 |[hack.lu](https://hack.lu)|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|    
 |:star:[NullByte](https://nullbyte-con.org):star:|8 Nov, 2025|Salvador, Brazil|-1 Sep, 2025|Yes?|https://www.papercall.io/nullbyte|
 |[UYBHYS](https://www.unlockyourbrain.bzh)|7-9 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
 |:star:[DefCamp](https://def.camp/):star:|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
 |:star:[Code Blue](https://codeblue.jp/2024/en/):star:|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes||
-|[AVTOYKO](https://www.avtokyo.org/)|23 Nov, 2025|Tokyo, Japan|- Sep|Yes||
+|:star:[Hardwear.io NL](https://hardwear.io):star:|20-21 Nov, 2025|Amsterdam, Netherlands|1 Jul- 22 Aug, 2025|Yes|Hardware focused, prefer employer cover travel costs.|
+|:star:[AVTOYKO](https://www.avtokyo.org/):star:|23 Nov, 2025|Tokyo, Japan|Jul - 30 Sep, 2025|Yes||
 |:star:[DeepSEC](https://deepsec.net):star:|20-21 Nov, 2025|Vienna, Austria|-31 Jul, 2025|Yes|Travel EUR 800|
 |:star:[BlackAlps](https://www.blackalps.ch):star:|20-21 Nov, 2025|Yverdon-les-Bains Switzerland|?-31 Jul, 2025|Yes*||
 |:star:[NDC {Security Manchester}](https://ndcsecurity.co.uk/):star:|1-4 Dec, 2025|Manchester, England|Jun - 3 Aug, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
