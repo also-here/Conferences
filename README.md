@@ -14,7 +14,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[ChiBRRCon](https://chibrrcon.com/)|5 Feb, 2026|Chicago, IL| - Dec|No||
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
 |:star:[BsidesMKE](https://www.bsidesmke.org):star:|Apr, 2026|Milwaukee WI|Sep, 2024 - Jan, 2025|No|Rolling CFP, always open?|
-|[CypherCon](https://cyphercon.com/)|1-2 Apr, 2026|Milwaukee WI| Jul, 2025 - 12 Jan, 2026|No||
+|:star:[CypherCon](https://cyphercon.com/):star:|1-2 Apr, 2026|Milwaukee WI| Jul, 2025 - 12 Jan, 2026|No||
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
 |[Bsides312](https://bsides312.org/)|1 Jun, 2025|Chicago, IL|15 Jan - 14 Mar, 2025|No||
 |[BsidesDSM](https://bsidesdsm.org/)|7 Jun, 2025|Des Moines, IA|1 Mar - 30 Apr, 2025|No||
