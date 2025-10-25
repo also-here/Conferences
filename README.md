@@ -11,15 +11,16 @@ Currently(ish) active CfP events :star: STARRED :star:.
 
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
-|[ChiBRRCon](https://chibrrcon.com/)|5 Feb, 2026|Chicago, IL| - Dec|No||
+|:star:[ChiBRRCon](https://chibrrcon.com/):star:|5 Feb, 2026|Chicago, IL|1 Sep - 12 Dec, 2025|No||
 |[DakotaCon](https://dakotacon.org/)|21-23 Mar, 2025|Madison, SD|Nov?-|Yes?|Affiliated /w university? Might cover travel|
 |:star:[BsidesMKE](https://www.bsidesmke.org):star:|Apr, 2026|Milwaukee WI|Sep, 2024 - Jan, 2025|No|Rolling CFP, always open?|
 |:star:[CypherCon](https://cyphercon.com/):star:|1-2 Apr, 2026|Milwaukee WI| Jul, 2025 - 12 Jan, 2026|No||
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
 |[Bsides312](https://bsides312.org/)|1 Jun, 2025|Chicago, IL|15 Jan - 14 Mar, 2025|No||
+|:star:[SecretCon](https://www.secretcon.com):star:|4-5 Jun, 2026|St Paul, MN|?-?|No?|Rolling CFP, always open?|
 |[BsidesDSM](https://bsidesdsm.org/)|7 Jun, 2025|Des Moines, IA|1 Mar - 30 Apr, 2025|No||
 |[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes||
-|:star:[SecretCon](https://www.secretcon.com):star:|4-5 Jun, 2026|St Paul, MN|?-?|No?|Rolling CFP, always open?|
+|:star:[WISCON](https://wiscon.io/):star:|11 Jun, 2026|Madison, WI|Oct - 31 Jan, 2026|No||
 |[BlueTeamCon](https://blueteamcon.com/)|6-7 Sep, 2025|Chicago, IL|4 Mar- 18 Apr, 2025|No||
 |[PancakesCon](https://pancakescon.com/)|21 Sep, 2025|Online|26 Jul-9 Aug, 2025|No|partnering with ComfyCon Australia|
 |[GRRCon](https://grrcon.com/)|2-3 Oct, 2025|Grand Rapids, MI|Jan - 30 Jun, 2025|No||
@@ -33,24 +34,25 @@ Currently(ish) active CfP events :star: STARRED :star:.
 
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
-|[NDC {Security}](https://ndc-security.com)|2-5 Mar, 2026|Oslo, Norway|Jul- Sep |Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
-|:star:[NDC {London}](https://ndclondon.com):star:|26-30 Jan, 2026|London, England|May- 7 Sep, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
+|[NDC {London}](https://ndclondon.com)|26-30 Jan, 2026|London, England|May- 7 Sep, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
 |:star:[HackCon](https://www.hackcon.org/):star:|11-12 Feb, 2026|Oslo, Norway|- 15 Dec, 2025|Yes||
-|[Insomni'hack](https://insomnihack.ch/)|13-14 Mar, 2025|Lausanne, Switzerland|-22 Nov, 2024|Yes||
+|:star:[RootedCon](https://cfp.rootedcon.com/):star:|5-7 Mar, 2026|Var. Spain/Portugal/Mexico/Panama|20 Oct - 24 Dec, 2025|Yes?|Multiple events. Madrid CFP currently|
+|:star:[Insomni'hack](https://insomnihack.ch/):star:|19-20 Mar, 2026|Lausanne, Switzerland|-30 Nov, 2025|Yes||
 |[m0leCon](https://m0lecon.it/)|22 Mar, 2025|Turin, Italy|25 Nov, 2024 - 31 Jan, 2025|Yes||
-|[Black Hat Asia](https://www.blackhat.com/)|21-24 Apr, 2026|Singapore|16 Oct - Dec 11, 2025|Yes||
+|:star:[NDC {Security}](https://ndc-security.com):star:|2-5 Mar, 2026|Oslo, Norway|- 7 Dec, 2025|Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
+|:star:[Black Hat Asia](https://www.blackhat.com/):star:|21-24 Apr, 2026|Singapore|16 Oct - Dec 11, 2025|Yes||
 |[BSides Pristina](https://bsidesprishtina.org/)|12 Apr, 2025|Pristina, Kosovo|23 Jan -6 Mar, 2025|Yes|bsides, limited travel|
 |[CanSecWest](https://www.secwest.net/)|24-25 Apr, 2025 |Vancouver, Canada| Jan - 14 Feb, 2025|Yes||
-|[OffensiveCon](https://www.offensivecon.org)|16-17 May, 2025|Berlin, Germany|11 Dec, 2024 - 6 Apr, 2025|Yes||
+|:star:[OffensiveCon](https://www.offensivecon.org):star:|15-16 May, 2026|Berlin, Germany| Oct, 2025 - 1 Mar, 2026|Yes||
 |[SINCON](https://www.infosec-city.com/)|22-23 May, 2025|Singapore|12 Dec, 2024 - 25 Feb, 2025|Yes||
-|[NorthSec](https://nsec.io/)|14-15 May, 2026|Montreal, Canada| - 15 Mar, 2026|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
+|[NorthSec](https://nsec.io/)|16-17 May, 2026|Montreal, Canada| - 15 Mar, 2026|Yes*|Prefer employer cover travel costs. Limited budget for travel & accommodations.|
 |:star:[TyphoonCon](https://typhooncon.com/):star:|28-29 May, 2026|Seoul, Korea|Sep - 1 Mar, 2026|Yes|Security research focused|
 |[Hardwear.io US](https://www.hardwear.io)|30-31 May, 2025|Santa Clara, CA|18 Nov, 2024 - 20 Jan, 2025|Yes|$250 stateside. Prefer employer cover travel costs.|
-|[CONFidence](https://confidence-conference.org)|2-3 Jun, 2025|Krakow, Poland|Dec, 2024 - 7 Mar, 2025|Yes*|travel expense limited|
-|[SecurityFest](https://securityfest.com/)|4-5 Jun, 2025|Gothenburg, Sweden|Sep-Mar|Yes||
+|[CONFidence](https://confidence-conference.org)|25-26 May, 2026|Krakow, Poland|Dec - Mar|Yes*|travel expense limited|
+|:star:[SecurityFest](https://securityfest.com/):star:|28-29 May, 2026|Gothenburg, Sweden|Sep-Mar|Yes||
 |[x33fcon](https://www.x33fcon.com)|13-14 Jun, 2025|Gydnia, Poland|18 Nov, 2024 - 2 Feb, 2025|Yes||
-|[TROOPERS](https://troopers.de)|23-27 Jun, 2025|Heidelberg, Germany|18 Oct, 2024 - 16 Mar, 2025|Yes||
+|[TROOPERS](https://troopers.de)|25-26 Jun, 2026|Heidelberg, Germany|18 Oct, 2024 - 16 Mar, 2025|Yes||
 |[REcon](https://recon.cx)|27-29 Jun, 2025|Montreal, Canada|Feb - 25 Apr, 2025|Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
 |[leHACK](https://lehack.org/)|27-29 Jun, 2025|Paris, France|10 Jan - 6 Apr, 2025|Yes||
 |[Area41](https://area41.io/)|18-19 Jun, 2026|Zurich Switzerland|-Apr/May|Yes|Every other year. Back in 2026 Short CFP window|
@@ -61,7 +63,6 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[SEC-T](https://www.sec-t.org/)|10-12 Sep, 2025|Stockholm, Sweden|Jan-1 Aug, 2025|Yes||
 |[BruCON](https://www.brucon.org)|25-26 Sep, 2025|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|17-19 Sep, 2025|London, England|30 Jan - 30 May, 2025|Yes||
-|[RootedCon](https://cfp.rootedcon.com/)|25-26 Sep, 2025|Var. Spain/Portugal/Mexico/Panama|14 May - 30 Jun, 2025|Yes?|Multiple events. No CFP currently|
 |[RomHack](https://romhack.io)|27 Sep, 2025|Rome, Italy|17 Feb - 18 May, 2025|Yes||
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|-14 Jul, 2024|Yes||
 |[SecTor](https://www.blackhat.com/sector/)|1-2 Oct, 2025|Toronto, Canada|21 Mar - 16 May, 2025|Yes|Joined BlackHat a few years ago|
@@ -71,10 +72,10 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[hack.lu](https://hack.lu)|21-24 Oct, 2025|Luxembourg, Luxembourg|Jan - 30 Apr, 2025|Yes*|300 EUR for travel, room covered|    
 |[NullByte](https://nullbyte-con.org)|8 Nov, 2025|Salvador, Brazil|-1 Sep, 2025|Yes?|https://www.papercall.io/nullbyte|
 |[UYBHYS](https://www.unlockyourbrain.bzh)|7-9 Nov, 2025|Brest, France|-30 Jun, 2025|Yes|Unlock Your Brain, Harden Your System|
-|:star:[DefCamp](https://def.camp/):star:|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
+|[DefCamp](https://def.camp/)|13-14 Nov, 2025|Bucharest, Romania|Mar-15 Oct, 2025|Yes||
 |[Code Blue](https://codeblue.jp/2024/en/)|18-19 Nov, 2025|Tokyo, Japan|25 Mar -31 Jul, 2025|Yes||
 |[Hardwear.io NL](https://hardwear.io)|20-21 Nov, 2025|Amsterdam, Netherlands|1 Jul- 22 Aug, 2025|Yes|Hardware focused, prefer employer cover travel costs.|
-|:star:[AVTOYKO](https://www.avtokyo.org/):star:|23 Nov, 2025|Tokyo, Japan|Jul - 30 Sep, 2025|Yes||
+|[AVTOYKO](https://www.avtokyo.org/)|23 Nov, 2025|Tokyo, Japan|Jul - 30 Sep, 2025|Yes||
 |[DeepSEC](https://deepsec.net)|20-21 Nov, 2025|Vienna, Austria|-31 Jul, 2025|Yes|Travel EUR 800|
 |[BlackAlps](https://www.blackalps.ch)|20-21 Nov, 2025|Yverdon-les-Bains Switzerland|?-31 Jul, 2025|Yes*||
 |[NDC {Security Manchester}](https://ndcsecurity.co.uk/)|1-4 Dec, 2025|Manchester, England|Jun - 3 Aug, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
