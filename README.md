@@ -28,6 +28,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[BsidesPeoria](https://bsidespeoria.com/)|25 Oct, 2025|Peroia, IL|2 Jun - 31 Aug, 2025|No||
 |[Hackers Halted](https://hackerhalted.com/)|8-9 Oct, 2026|Atlanta, GA|- May 31, 2025|No|EC2|
 |[BsidesChicago](https://bsideschicago.org/)|31 Oct - 1 Nov, 2025|Chicago, IL| 28 Jun - 31 Jul, 2025|No||
+|[OzCon](https://theozcon.com/)|18 May, 2026|Chicago, IL| ? - 31 Jan, 2026|Yes - Hotel and $600 for flights||
 
 
 ### Travel assitance available
