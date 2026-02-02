@@ -52,10 +52,10 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |:star:[Hardwear.io US](https://www.hardwear.io):star:|29-30 May, 2026|Santa Clara, CA|8 Jan, 2026 - 5 Mar, 2026|Yes|$250 stateside. Prefer employer cover travel costs.|
 |:star:[CONFidence](https://confidence-conference.org):star:|25-26 May, 2026|Krakow, Poland|Dec - 15 Mar, 2026|Yes*|travel expense limited|
 |:star:[SecurityFest](https://securityfest.com/):star:|28-29 May, 2026|Gothenburg, Sweden|Sep-Mar|Yes||
-|:star:[x33fcon](https://www.x33fcon.com):star:|11-12 Jun, 2026|Gydnia, Poland| Nov, 2025 - 2 Feb, 2026|Yes||
+|[x33fcon](https://www.x33fcon.com)|11-12 Jun, 2026|Gydnia, Poland| Nov, 2025 - 2 Feb, 2026|Yes||
 |:star:[TROOPERS](https://troopers.de):star:|25-26 Jun, 2026|Heidelberg, Germany|13 Jan, 2026 - 31 Mar, 2026|Yes||
 |:star:[REcon](https://recon.cx):star:|19-21 Jun, 2026|Montreal, Canada|Nov, 2025 - 11 Apr, 2026 |Yes*|Prefer employer cover travel costs. Also, this is some advanced shit.|
-|[leHACK](https://lehack.org/)|27-29 Jun, 2025|Paris, France|10 Jan - 6 Apr, 2025|Yes||
+|:star:[leHACK](https://lehack.org/):star:|26-28 Jun, 2026|Paris, France|26 Jan - 12 Apr, 2026|Yes|may cover part or all|
 |[Area41](https://area41.io/)|18-19 Jun, 2026|Zurich Switzerland|Feb-Apr 2026|Yes|Every other year. Back in 2026 Short CFP window|
 |[Black Hat USA](https://www.blackhat.com/)|5-6 Aug, 2026|Las Vegas, NV|5 Feb - 2 Apr, 2025|Yes||
 |[DEF CON](https://www.defcon.org/)|6-9 Aug, 2026|Las Vegas, NV| Feb - 1 May, 2026|$300 honorarium + 4 nights hotel||
