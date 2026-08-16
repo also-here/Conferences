@@ -19,7 +19,6 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[SecretCon](https://www.secretcon.com)|6-7 May, 2027|St Paul, MN|?-?|No?||
 |[TheOZCon](https://theozcon.com/)|17 May, 2027|Kansas City, KS|? - Jan 31, 2026|?||
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
-
 |[BsidesDSM](https://bsidesdsm.org/)|13 Jun, 2026|Des Moines, IA|1 Mar - 30 Apr, 2026|No||
 |[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes|No 2026 Event|
 |[WISCON](https://wiscon.io/)|11 Jun, 2026|Madison, WI|Oct - 31 Jan, 2026|No||
