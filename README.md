@@ -17,13 +17,11 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[BsidesMKE](https://www.bsidesmke.org)|Apr, 2026|Milwaukee WI|Sep, 2024 - Jan, 2025|No||
 |[Bsides312](https://bsides312.org/)|16 May, 2026|Chicago, IL|27 Nov, 2025 - 28 Feb, 2026|No||
 |[SecretCon](https://www.secretcon.com)|6-7 May, 2027|St Paul, MN|?-?|No?||
-|[TheOZCon](https://theozcon.com/)|17 May, 2027|Kansas City, KS|? - Jan 31, 2026|?||
+|[OzCon](https://theozcon.com/)|17 May, 2027|Overland Park, KS|? - Jan 31, 2026|Yes|Kansas Hacking & InfoSec Conference. Old ShowMeCon showrunner; pays travel|
 |[THOTCON](https://www.thotcon.org)|30-31 May, 2025|Chicago, IL|1 Oct -31 Dec, 2024|No|Every other year|
 |[BsidesDSM](https://bsidesdsm.org/)|13 Jun, 2026|Des Moines, IA|1 Mar - 30 Apr, 2026|No||
-|[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes|No 2026 Event|
 |[WISCON](https://wiscon.io/)|11 Jun, 2026|Madison, WI|Oct - 31 Jan, 2026|No||
 |[BlueTeamCon](https://blueteamcon.com/)|12-13 Sep, 2026|Chicago, IL|9 Mar - 20 Apr, 2026|No||
-|[PancakesCon](https://pancakescon.com/)|21 Sep, 2025|Online|26 Jul-9 Aug, 2025|No|partnering with ComfyCon Australia|
 |[GRRCon](https://grrcon.com/)|24-25 Sep, 2026|Grand Rapids, MI|Jan - 30 Jun, 2026|No||
 |[CornCon](https://corncon.net)|2-3 Oct, 2026|Davenport, IA|6 Mar - 30 Jun, 2026|No||
 |:star:[BsidesPeoria](https://bsidespeoria.com/):star:|24 Oct, 2026|Peroia, IL|2 Jun - 31 Aug, 2026|No||
@@ -64,7 +62,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[BruCON](https://www.brucon.org)|24-25 Sep, 2026|Brussels, Belgium | 1-30 Apr|Yes?|Short CfP! Previous years mentioned travel help|
 |[44CON](https://44con.com/)|17-18 Sep, 2026|London, England|Mar - 31 May, 2026|Yes||
 |:star:[CanSecWest](https://www.secwest.net/):star:|30 Sep - 1 Oct 2026 |Vancouver, Canada| Apr - TBA |Yes||
-|[RomHack](https://romhack.io)|2 - 4 Oct, 2026|Rome, Italy|Mar - ? May, 2026|No. Change from past cons. Also, camping.||
+|[RomHack](https://romhack.io)|2 - 4 Oct, 2026|Rome, Italy|Mar - ? May, 2026|No|2026 is a Camp-only edition (no traditional indoor conference)|
 |[SecTor](https://www.blackhat.com/sector/)|6-8 Oct, 2026|Toronto, Canada|1 Apr - 26 May, 2026|Yes|Joined BlackHat a few years ago|
 |[SINCON](https://www.infosec-city.com/)|15 - 16 Oct, 2026|Singapore|12 Dec, 2024 - 25 Feb, 2025|Yes|tentative dates|
 |[Hacktivity](https://hacktivity.com/)|21 Oct, 2026|Budapest, Hungary|Feb -30 Apr, 2026|Yes|Limit travel 150 EUR+1 night*  of hotel|
@@ -76,7 +74,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[UYBHYS](https://www.unlockyourbrain.bzh)|6-7 Nov, 2026|Brest, France|May - 30 Jun, 2026|Yes|Unlock Your Brain, Harden Your System|
 |:star:[DefCamp](https://def.camp/):star:|19-20 Nov, 2026|Bucharest, Romania|Jun - 15 Oct, 2026|Yes||
 |:star:[Code Blue](https://codeblue.jp/en/):star:|17-18 Nov, 2026|Tokyo, Japan|25 Mar -31 Jul, 2026|Yes||
-|:star:[Hardwear.io NL](https://hardwear.io):star:|19-20 Nov, 2026|Amsterdam, Netherlands|30 Apr - 20 Jul, 2026|Yes|Hardware focused, prefer employer cover travel costs.|
+|:star:[Hardwear.io NL](https://hardwear.io):star:|19-20 Nov, 2026|Amsterdam, Netherlands|30 Apr - 20 Jul, 2026|Yes|Hardware focused, prefer employer cover travel costs. Venue moved from The Hague to Amsterdam|
 |:star:[AVTOYKO](https://www.avtokyo.org/):star:|21 Nov, 2026|Tokyo, Japan|Jul - 26 Sep, 2026|Yes|100,000 JPY|
 |:star:[DeepSEC](https://deepsec.net):star:|19-20 Nov, 2026|Vienna, Austria|-31 Jul, 2026|Yes|Travel EUR 800|
 |[BlackAlps](https://www.blackalps.ch)|5-6 Nov, 2026|Yverdon-les-Bains Switzerland|?-30 Jun, 2026|Yes*||
@@ -89,11 +87,11 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |------|------|------|------|------|------|
 |[ShmooCon](https://www.shmoocon.org)|10-12 Jan, 2025|Washington D.C.|24 Nov, 2024|No|The last one!|
 |[BSides Bern](https://bern.bsides.ch)|1 Oct, 2024|Bern, Switzerland|-14 Jul, 2024|Yes|No updates, might be done.|
+|[ShowMeCon](https://showmecon.com)|9-10 Jun, 2025|St. Louis, MO|1 Dec, 2024 - 31 Jan, 2025|Yes|Organizers confirmed it permanently ended|
 
 ## CFP Sites and Other Info
 
-- [confsec](https://github.com/cryptax/confsec/tree/master) - Similar effor by cryptax.
+- [Sessionize](https://sessionize.com/) - Event directory and paper submission
 - [CFP Time](https://www.cfptime.org/home) - often include Speaker Benefits info
-- [PaperCall](https://www.papercall.io/) - Event directory and paper submission
 - [WikiCFP](http://wikicfp.com/cfp/) - More academic in general 
 - [InfoSecMap](https://infosecmap.com/) - Info on events and meetups. more p2p, less hacker
