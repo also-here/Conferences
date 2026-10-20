@@ -40,6 +40,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 |[NDC {Security}](https://ndc-security.com)|15-18 Feb, 2027|Oslo, Norway|- 18 Oct, 2026|Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
 |[RootedCon](https://cfp.rootedcon.com/)|5-7 Mar, 2026|Var. Spain/Portugal/Mexico/Panama|20 Oct - 24 Dec, 2025|Yes?|Multiple events. Madrid CFP currently|
 |[m0leCon](https://m0lecon.it/)|21 Mar, 2026|Turin, Italy|20 Nov, 2024 - 31 Jan, 2026|Yes||
+|:star:[SO-CON](https://specterops.io/company/events/so-con-2027/):star:|26-27 Apr, 2027|Arlington, VA|14 Oct - 13 Nov, 2026|Yes|SpecterOps conference. Covers travel. CFP via [Sessionize](https://sessionize.com/so-con-2027)|
 |:star:[Black Hat Asia](https://www.blackhat.com/):star:|2-3 Mar, 2027|Singapore|4 Sep - 20 Oct, 2026|Yes||
 |[BSides Luxembourg](https://2026.bsides.lu/)|5-7 May, 2026|Belval, Luxembourg|28 Jan - 28 Feb, 2026|Yes||
 |[BSides Pristina](https://bsidesprishtina.org/)|22-23 May, 2026|Pristina, Kosovo|3 Feb - 17 Mar, 2026|Yes|bsides, limited travel|
